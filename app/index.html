@@ -1,0 +1,252 @@
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+    <meta http-equiv="Content-Type" content="charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=960">
+    <title></title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #body {
+            font-family: Georgia, "Times New Roman", serif;
+            width: 960px;
+            margin: 0 auto;
+        }
+
+        text {
+            font-family: Helvetica, Arial, sans-serif;
+        }
+
+        h1, h2 {
+            font-weight: normal;
+        }
+
+        h1 {
+            font-size: 60px;
+            margin: 18px 0 10px;
+        }
+
+        h2 {
+            font-size: 20px;
+            margin: 0 0 16px;
+        }
+
+        #intro {
+            margin: 0 auto 25px;
+            line-height: 24px;
+            font-size: 14px;
+        }
+
+        #intro .date {
+            font-size: 12px;
+            text-transform: capitalize;
+        }
+
+        #header {
+            position: absolute;
+            top: 0;
+            text-align: left;
+            float: right;
+            width: 420px;
+            /*margin: 0 0 0 600px;*/
+            margin: 0 0 0 400px;
+            height: 0;
+            z-index: 1;
+        }
+
+        #header h1 {
+            margin: 160px 0 0;
+        }
+
+        #masthead, #heading, #subheading, #intro, #byline {
+            display: block;
+        }
+
+        #byline {
+            font-size: 12px;
+            margin: 0 auto 30px;
+        }
+
+        #byline span {
+            font-weight: bold;
+        }
+
+        #toggler {
+            margin: 30px auto;
+        }
+
+        #toggler a {
+            x-shadow: inset 0px 1px 0px 0px #ffffff;
+            -webkit-box-shadow: inset 0px 1px 0px 0px #ffffff;
+            box-shadow: inset 0px 1px 0px 0px #ffffff;
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #e9e9e9));
+            background: -moz-linear-gradient(center top, #f9f9f9 5%, #e9e9e9 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9f9f9', endColorstr='#e9e9e9');
+            background-color: #f9f9f9;
+            text-indent: 0;
+            border: 1px solid #dcdcdc;
+            display: inline-block;
+            color: #505050;
+            font-family: Arial;
+            font-size: 13px;
+            font-weight: bold;
+            font-style: normal;
+            width: 100px;
+            height: 30px;
+            line-height: 30px;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        #toggler a:hover {
+            background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #e9e9e9), color-stop(1, #f9f9f9));
+            background: -moz-linear-gradient(center top, #e9e9e9 5%, #f9f9f9 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e9e9e9', endColorstr='#f9f9f9');
+            background-color: #e9e9e9;
+        }
+
+        #toggler a:active {
+            position: relative;
+            top: 1px;
+        }
+
+        #toggler a.selected {
+            background: #808080;
+            color: #f9f9f9;
+            box-shadow: none;
+            border: 1px solid #808080;
+        }
+
+        #loading {
+            margin: 0 auto;
+            width: 100px;
+            height: 9px;
+            background: url(loading.gif) center top no-repeat;
+        }
+
+        #tooltip {
+            width: 260px;
+            height: 40px;
+            display: none;
+            position: fixed;
+            background-color: #FFF;
+            border: 1px solid #CCC;
+            text-align: center;
+            font-size: 12px;
+            padding: 6px 8px;
+            overflow: hidden;
+        }
+
+        #tooltip-inside {
+            line-height: 1em;
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        #tooltip .time {
+            font-weight: bold;
+        }
+
+        #contents {
+            width: 100%;
+            height: 100vh;
+            overflow: scroll;
+        }
+
+        g.runner {
+            cursor: pointer;
+        }
+
+        #container-scale text {
+            fill: #666;
+        }
+
+        #container-scale line {
+            stroke: #666;
+        }
+
+        path {
+            fill: none;
+        }
+
+        #container-notes line, #container-notes path {
+            stroke: #666;
+            stroke-width: 1px;
+        }
+
+        #container-notes text {
+            fill: #666;
+        }
+
+        .legend-item {
+            float: left;
+            margin: 0 12px 0 0;
+        }
+
+        .legend-item span.legend-text {
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12px;
+        }
+
+        .legend-item span.legend-color {
+            -webkit-border-radius: 1.2em;
+            -moz-border-radius: 1.2em;
+            width: 12px;
+            height: 12px;
+            display: inline-block;
+            margin: 0 4px -2px 0;
+            white-space: nowrap;
+        }
+    </style>
+<body>
+<!--[if lte IE 8]>
+<style type="text/css">
+    #header, #contents, #footer {
+        display: none;
+    }
+
+    #logo-scmp {
+        height: 50px;
+    }
+
+    #g-error {
+        position: absolute;
+        top: 80px;
+    }
+</style>
+<div id="g-error">This visualisation requires a browser which supports SVG such as <a
+        href="http://www.google.com/chrome">Chrome</a>, <a href="http://www.mozilla.org/en-US/firefox/">Firefox</a>, <a
+        href="http://www.apple.com/safari/">Safari</a> or <a href="http://windows.microsoft.com/ie">Internet Explorer
+    9</a>.
+</div>
+<![endif]-->
+<div id="body">
+    <div id="contents">
+        <div id="loading"></div>
+        <div id="g"></div>
+        <div id="tooltip">
+            <div id="tooltip-inside"></div>
+        </div>
+    </div>
+    <div id="header">
+        <h1 id="heading">Measuring the long run</h1>
+        <h2 id="subheading"></h2>
+        <div id="byline">By Trenton Kennedy</div>
+        <div id="intro">The 2017 St. Jude Marathon was won on Saturday morning we trace the
+            milestones of the marathon challenge, the toughest among the event's races, from the firing gun to the last
+            second.
+        </div>
+        <div id="legend"></div>
+    </div>
+</div>
+<!--[if gt IE 8]><!-->
+
+<script src="./bundle.js"></script>
+
+<!--<![endif]-->
+</body>
+</html>
