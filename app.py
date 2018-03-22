@@ -4,6 +4,8 @@ from flask_sqlalchemy import SQLAlchemy
 from flask.ext.heroku import Heroku
 
 app = Flask(__name__)
+# https://stackoverflow.com/questions/45179120/how-do-i-connect-my-flask-app-to-its-heroku-database-using-psycopg2
+# http://www.vertabelo.com/blog/technical-articles/web-app-development-with-flask-sqlalchemy-bootstrap-part-3
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgres://dgvnwqnawhccop:168b5904636719b5d62c585ca79b821f9d2fd7d0090ed9048cb744530d628538@ec2-54-221-212-15.compute-1.amazonaws.com:5432/d53bb2j3fl7r7l'
 heroku = Heroku(app)
 db = SQLAlchemy(app)
