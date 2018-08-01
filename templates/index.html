@@ -1,94 +1,72 @@
-<!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta charset="utf-8">
-    <title>Landing Page template</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <!--[if lt IE 9]>
-      <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link href="{{ url_for('static', filename='css/styles.css') }}" rel="stylesheet">
-</head>
-
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+    <meta http-equiv="Content-Type" content="charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=960">
+    <title>2017 St. Jude Memphis Marathon data</title>
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700" rel="stylesheet">
+    <link rel="stylesheet" href="../static/main.css">
 <body>
-    <div class="container-full">
-        <div class="row">
-            <div class="col-lg-12 text-center v-center">
-                <h1>Hello Landing</h1>
-                <p class="lead">A sign-up page example for Bootstrap 3</p>
-                <br>
-                <br>
-                <br>
-                <form class="col-lg-12" action="{{url_for('prereg')}}" method="POST">
-                    <div class="input-group" style="width:340px;text-align:center;margin:0 auto;">
-                        <input class="form-control input-lg" title="Don't worry. We hate spam, and will not share your email with anyone." placeholder="Enter your email address" type="email" name="email">
-                        <span class="input-group-btn"><button class="btn btn-lg btn-primary" type="submit">GO</button></span>
-                    </div>
-                </form>
-            </div>
+<!--[if lte IE 8]>
+<style type="text/css">
+    #header, #contents, #footer {
+        display: none;
+    }
 
-        </div>
-        <!-- /row -->
+    #logo-scmp {
+        height: 50px;
+    }
 
-        <div class="row">
-            <div class="col-lg-12 text-center v-center" style="font-size:39pt;">
-                <a href="#"><i class="icon-google-plus"></i></a>  <a href="#"><i class="icon-facebook"></i></a>  <a href="#"><i class="icon-twitter"></i></a>  <a href="#"><i class="icon-github"></i></a>  <a href="#"><i class="icon-pinterest"></i></a>
-            </div>
-        </div>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
+    #g-error {
+        position: absolute;
+        top: 80px;
+    }
+</style>
+<div id="g-error">This visualisation requires a browser which supports SVG such as <a
+        href="http://www.google.com/chrome">Chrome</a>, <a href="http://www.mozilla.org/en-US/firefox/">Firefox</a>, <a
+        href="http://www.apple.com/safari/">Safari</a> or <a href="http://windows.microsoft.com/ie">Internet Explorer
+    9</a>.
+</div>
+<![endif]-->
+
+<header>
+    <h1>St. Jude Memphis Marathon</h1>
+    <h2>(2017 overview)</h2>
+    <p>In 2017 St. Jude Children's Research Hospital witnessed 2,347 people complete 26.2 miles through the streets of Memphis, TN. Based on <a href="http://www.besttimescct.com/results/marathon-results-by-place-2017.HTML">public race result data</a>, these graphics seek to explore the trends amongst these devoted runners.</p>
+</header>
+
+<section class="data-chapter">
+    <div class="section-header">
+            <h3>Who were the marathon runners?</h3>
+            <p>In 2017 the St. Jude Memphis Marathlon had 2,347 runners cross the finish line. A majority of the runners traveled from Tennessee (60%), Mississippi (44%), and Arkansas (40%), while some traveled all the way from provinces in Canada! Out of the 2,347 people who finished <strong class="male-gender">1,284 were male</strong> and <strong class="female-gender">1,063 were female</strong>.</p>
     </div>
-    <!-- /container full -->
+    
+    <div id="runner-locations">
 
-    <div class="container">
-        <hr>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h3>Hello.</h3>
-                    </div>
-                    <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. Aliquam in felis sit amet augue.
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h3>Hello.</h3>
-                    </div>
-                    <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. Aliquam in felis sit amet augue.
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h3>Hello.</h3>
-                    </div>
-                    <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pharetra varius quam sit amet vulputate. Quisque mauris augue, molestie tincidunt condimentum vitae, gravida a libero. Aenean sit amet felis dolor, in sagittis nisi. Sed ac orci quis tortor imperdiet venenatis. Duis elementum auctor accumsan. Aliquam in felis sit amet augue.
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-lg-12">
-                <br>
-                <br>
-                <br>
-                <br>
-            </div>
-        </div>
     </div>
+</section>
 
-    <!-- script references -->
-    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+<section class="data-chapter">
+    <div class="section-header">
+        <h2>How did the runners perform?</h2>
+    </div>
+    <div id="finishers-container">
+            <div class="viz-contents">
+                <div id="loading"></div>
+                <div id="g"></div>
+                <div id="tooltip">
+                    <div id="tooltip-inside"></div>
+                </div>
+            </div>
+        </div>
+</section>
+
+
+<!--[if gt IE 8]><!-->
+
+<script src="../static/bundle.js"></script>
+
+<!--<![endif]-->
 </body>
-
 </html>
