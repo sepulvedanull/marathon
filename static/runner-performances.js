@@ -4,7 +4,8 @@ import 'd3-selection-multi'
 import {showTooltip, hideTooltip, xPos, yPos, timeToSeconds, timeToMinutes} from './utils/utils.js'
 
 const q = d3.queue();
-q.defer(d3.csv, './data/stjude_marathon_data.csv');
+
+q.defer(d3.csv, '/static/dist/stjude_marathon_data.csv');
 q.await(ready);
 
 const transitionDuration = 1000,
