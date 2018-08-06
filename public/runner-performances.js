@@ -5,7 +5,7 @@ import {showTooltip, hideTooltip, xPos, yPos, timeToSeconds, timeToMinutes} from
 
 const q = d3.queue();
 
-q.defer(d3.csv, '/static/dist/stjude_marathon_data.csv');
+q.defer(d3.csv, '/dist/stjude_marathon_data.csv');
 q.await(ready);
 
 const transitionDuration = 1000,
