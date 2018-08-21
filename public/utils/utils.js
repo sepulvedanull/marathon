@@ -1,23 +1,22 @@
-import * as d3 from 'd3'
-import {selection, select} from 'd3-selection'
-import 'd3-selection-multi'
+import {select, mouse} from 'd3-selection'
+
 
 export function showTooltip(d, i) {
-  const mo = d3.mouse(d3.select("body").node());
+  const mo = mouse(select("body").node());
   var x = mo[0] - 130;
   var y = mo[1] - document.body.scrollTop - 70;
   var txt = '<div>' + d.name + '</div><div class="position">Position overall: ' + d.position_overall + '</div><div class="time">Finishing time: ' + d.time_net + '</div>';
 
-  d3.select("#" + this.id + " .shape").attr("stroke", "#000");
-  d3.select("#tooltip-inside").html(txt);
-  d3.select("#tooltip").style("left", x + "px").style("top", y + "px").style("display", "table");
-  d3.select("#minutes-bg-" + timeToMinutes(d.time_net)).attr("opacity", .2);
+  select("#" + this.id + " .shape").attr("stroke", "#000");
+  select("#tooltip-inside").html(txt);
+  select("#tooltip").style("left", x + "px").style("top", y + "px").style("display", "table");
+  select("#minutes-bg-" + timeToMinutes(d.time_net)).attr("opacity", .2);
 }
 
 export function hideTooltip(d, i) {
-  d3.select("#minutes-bg-" + timeToMinutes(d.time_net)).attr("opacity", 0);
-  d3.select("#" + this.id + " .shape").attr("stroke", "none");
-  d3.select("#tooltip").style("display", "none");
+  select("#minutes-bg-" + timeToMinutes(d.time_net)).attr("opacity", 0);
+  select("#" + this.id + " .shape").attr("stroke", "none");
+  select("#tooltip").style("display", "none");
 }
 
 export function xPos(d, gpr, w, csp) {

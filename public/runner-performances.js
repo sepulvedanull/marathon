@@ -1,9 +1,13 @@
 import * as d3 from 'd3'
-import {selection, select} from 'd3-selection'
+import { select, selectAll } from 'd3-selection'
+import { queue } from 'd3-queue'
+import { scaleLinear } from 'd3-scale'
+
+
 import 'd3-selection-multi'
 import {showTooltip, hideTooltip, xPos, yPos, timeToSeconds, timeToMinutes} from './utils/utils.js'
 
-const q = d3.queue();
+const q = queue();
 
 q.defer(d3.csv, '/dist/stjude_marathon_data.csv');
 q.await(ready);
@@ -15,29 +19,29 @@ const transitionDuration = 1000,
     gpr = 100, // Groups per row
     colorOption = 'gender';
 
-let svg = d3.select('#g').append('svg');
+let svg = select('#g').append('svg');
 
 function ready(error, results) {
   if (error) throw error;
 
   const minMinutes = timeToMinutes(results[0].time_net),
-        maxMinutes = timeToMinutes(results[results.length - 1].time_net),
-        minHours = +((minMinutes / 60).toFixed(2)),
-        maxHours = Math.round(maxMinutes / 60);
+      maxMinutes = timeToMinutes(results[results.length - 1].time_net),
+      minHours = +((minMinutes / 60).toFixed(2)),
+      maxHours = Math.round(maxMinutes / 60);
 
   const scaleTicks = d3.range(153, 470, 15), // (start: 135min, stop:361min, step: 15min)
-        scaleTicksData = [];
+      scaleTicksData = [];
 
   const margin = {top: 60, right: 10, bottom: 20, left: 100},
-        width = 960 - margin.left - margin.right,
-        height = ((maxHours - minHours) * 60 * (rsp + w)) - margin.top - margin.bottom;
+      width = 960 - margin.left - margin.right,
+      height = ((maxHours - minHours) * 60 * (rsp + w)) - margin.top - margin.bottom;
 
   svg.attrs({
     'width': width + margin.left + margin.right,
     'height': height + margin.top + margin.bottom
   })
 
-  const timeScale = d3.scaleLinear().domain([minHours * 60, maxHours * 60]).range([0, height]);
+  const timeScale = scaleLinear().domain([minHours * 60, maxHours * 60]).range([0, height]);
 
   const mainContainer = svg.append("g").attrs({
     'id': 'container-main',
@@ -93,21 +97,21 @@ function ready(error, results) {
 }
 
 function drawShapes(results, mainContainer, timeScale, colorOption, per_minute) {
- mainContainer.selectAll("rect.minutes-bg")
+  mainContainer.selectAll("rect.minutes-bg")
       .data(per_minute)
       .enter()
       .append('rect')
       .attrs({
         'class': 'minutes-bg',
-        'id': (d,i) => `minutes-bg-${i}`,
-        'width': (d) => (w + csp) * d ,
+        'id': (d, i) => `minutes-bg-${i}`,
+        'width': (d) => (w + csp) * d,
         'height': w + 1,
         'opacity': 0,
         'x': -w / 2 - csp / 2,
-        'y': (d,i) => timeScale(i) + .5
+        'y': (d, i) => timeScale(i) + .5
       })
   let gRunners = mainContainer.selectAll("g")
-      .data( results, (d) => d.position_overall )
+      .data(results, (d) => d.position_overall)
       .enter()
       .append("g")
       .attrs({
@@ -118,7 +122,7 @@ function drawShapes(results, mainContainer, timeScale, colorOption, per_minute) 
       .on('mouseover', showTooltip)
       .on('mouseout', hideTooltip);
 
- gRunners.selectAll('rect.bg-under')
+  gRunners.selectAll('rect.bg-under')
       .data((d) => [d])
       .enter()
       .append("rect")
@@ -143,7 +147,7 @@ function drawShapes(results, mainContainer, timeScale, colorOption, per_minute) 
         'fill': '#CCC',
         'class': 'shape'
       })
-  d3.select(`#toggle-${colorOption}`).classed('selected', true);
+  select(`#toggle-${colorOption}`).classed('selected', true);
 
   changeState(gRunnersShapes);
 }
@@ -172,17 +176,17 @@ function drawScale(scaleContainer, timeScale, margin, minMinutes, scaleTicksData
         'transform': (d) => "translate(0," + timeScale(d.mins) + ")"
       })
 
- gScaleTicks.selectAll("line")
-     .data((d) => [d])
-     .enter()
-     .append("line")
-     .attrs({
-       'x1': margin.left - 20,
-       'y1': 0,
-       'x2': margin.left - 10,
-       'y2': 0,
-       'stroke': '#000'
-     })
+  gScaleTicks.selectAll("line")
+      .data((d) => [d])
+      .enter()
+      .append("line")
+      .attrs({
+        'x1': margin.left - 20,
+        'y1': 0,
+        'x2': margin.left - 10,
+        'y2': 0,
+        'stroke': '#000'
+      })
   gScaleTicks.selectAll("text.hours")
       .data((d) => [d])
       .enter()
@@ -194,7 +198,7 @@ function drawScale(scaleContainer, timeScale, margin, minMinutes, scaleTicksData
         'class': 'hours',
         'font-size': '11px'
       })
-      .text((d) => `${Math.floor(d.mins / 60)} hours` );
+      .text((d) => `${Math.floor(d.mins / 60)} hours`);
   gScaleTicks.selectAll("text.minutes")
       .data((d) => [d])
       .enter()
@@ -206,7 +210,7 @@ function drawScale(scaleContainer, timeScale, margin, minMinutes, scaleTicksData
         'class': 'minutes',
         'font-size': '11px'
       })
-      .text( (d) => {
+      .text((d) => {
         let M = d.mins % 60;
         if (M === 0) return "";
         return M + " minutes";
@@ -232,7 +236,7 @@ function drawLegend() {
       ]
     }
   ];
-  let legend = d3.select("#legend");
+  let legend = select("#legend");
   let divLegends = legend.selectAll("div")
       .data(legendData)
       .enter()
@@ -243,7 +247,7 @@ function drawLegend() {
         'id': 'legend-gender'
       })
   divLegends.selectAll("div")
-      .data((d) => d.values )
+      .data((d) => d.values)
       .enter()
       .append('div')
       .attrs({
@@ -256,7 +260,7 @@ function drawLegend() {
       .append("span")
       .attr("class", "legend-text")
       .text((d) => d.title);
-  d3.select(`#legend-${colorOption}`).style("display", "block");
+  select(`#legend-${colorOption}`).style("display", "block");
 }
 
 function changeState(gRunnersShapes) {
@@ -264,6 +268,6 @@ function changeState(gRunnersShapes) {
       .transition()
       .delay(0)
       .duration(transitionDuration)
-      .attr("fill",  (d) => (d.gender === 'm' ? '#66A9BA' : '#F7941D'))
+      .attr("fill", (d) => (d.gender === 'm' ? '#66A9BA' : '#F7941D'))
 }
 
