@@ -94,6 +94,8 @@ strong.female-gender {
 
 .viz-contents {
     width: 100%;
+    overflow: hidden;
+    position: relative;
 }
 
 g.runner {
@@ -121,9 +123,18 @@ path {
     fill: #666;
 }
 
-.legend-item {
-    float: left;
-    margin: 0 12px 0 0;
+#legend {
+    position: fixed;
+    right: 5%;
+    top: 20px;
+}
+
+#legend h3 {
+    margin: 0;
+}
+
+#legend p {
+    margin: 0;
 }
 
 .legend-item span.legend-text {

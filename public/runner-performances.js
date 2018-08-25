@@ -93,7 +93,12 @@ function ready(error, results) {
 
   drawShapes(results, mainContainer, timeScale, colorOption, per_minute);
   drawScale(scaleContainer, timeScale, margin, minMinutes, scaleTicksData);
-  drawLegend();
+  drawTooltip(results, mainContainer)
+  // drawLegend();
+}
+
+function drawTooltip(results, mainContainer) {
+
 }
 
 function drawShapes(results, mainContainer, timeScale, colorOption, per_minute) {
@@ -119,7 +124,7 @@ function drawShapes(results, mainContainer, timeScale, colorOption, per_minute) 
         'id': (d) => `runner-${d.position_overall}`,
         'transform': (d) => `translate(${xPos(d, gpr, w, csp)}, ${yPos(d, timeScale, w, rsp)})`
       })
-      .on('mouseover', showTooltip)
+      .on('mouseover', drawLegend)
       .on('mouseout', hideTooltip);
 
   gRunners.selectAll('rect.bg-under')
@@ -227,40 +232,9 @@ function drawScale(scaleContainer, timeScale, margin, minMinutes, scaleTicksData
       .remove();
 }
 
-function drawLegend() {
-  const legendData = [
-    {
-      'values': [
-        {"color": "#66A9BA", "title": "Men"},
-        {"color": "#F7941D", "title": "Women"}
-      ]
-    }
-  ];
-  let legend = select("#legend");
-  let divLegends = legend.selectAll("div")
-      .data(legendData)
-      .enter()
-      .append("div")
-      .style("display", "none")
-      .attrs({
-        'class': 'legend',
-        'id': 'legend-gender'
-      })
-  divLegends.selectAll("div")
-      .data((d) => d.values)
-      .enter()
-      .append('div')
-      .attrs({
-        'class': 'legend-item',
-        'id': (d) => `legend-item-${d.title.replace(/ /g, '').toLowerCase()}`
-      })
-      .append("span")
-      .attr("class", "legend-color")
-      .style("background-color", (d) => d.color)
-      .append("span")
-      .attr("class", "legend-text")
-      .text((d) => d.title);
-  select(`#legend-${colorOption}`).style("display", "block");
+function drawLegend(d) {
+  const legendText = `<h3 style="color:${d.gender === 'm' ? '#66A9BA' : '#F7941D'}"> ${d.name} </h3><p>Position: <strong>${d.position_overall}</strong></p><p>Finishing time: <strong>${d.time_net}</strong></p>`;
+  select("#legend").html(legendText);
 }
 
 function changeState(gRunnersShapes) {
