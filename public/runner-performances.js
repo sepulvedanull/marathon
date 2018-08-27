@@ -1,16 +1,14 @@
-import * as d3 from 'd3'
-import { select, selectAll } from 'd3-selection'
-import { queue } from 'd3-queue'
+import { csv } from 'd3-fetch'
+import { select } from 'd3-selection'
 import { scaleLinear } from 'd3-scale'
-
-
+import { range } from 'd3-array'
 import 'd3-selection-multi'
-import {showTooltip, hideTooltip, xPos, yPos, timeToSeconds, timeToMinutes} from './utils/utils.js'
+import { hideTooltip, xPos, yPos, timeToSeconds, timeToMinutes } from './utils/utils.js'
 
-const q = queue();
 
-q.defer(d3.csv, '/dist/stjude_marathon_data.csv');
-q.await(ready);
+csv('/dist/stjude_marathon_data.csv').then(function(data) {
+  ready(data);
+})
 
 const transitionDuration = 1000,
     w = 8,
@@ -21,15 +19,13 @@ const transitionDuration = 1000,
 
 let svg = select('#g').append('svg');
 
-function ready(error, results) {
-  if (error) throw error;
-
+function ready(results) {
   const minMinutes = timeToMinutes(results[0].time_net),
       maxMinutes = timeToMinutes(results[results.length - 1].time_net),
       minHours = +((minMinutes / 60).toFixed(2)),
       maxHours = Math.round(maxMinutes / 60);
 
-  const scaleTicks = d3.range(153, 470, 15), // (start: 135min, stop:361min, step: 15min)
+  const scaleTicks = range(153, 470, 15), // (start: 135min, stop:361min, step: 15min)
       scaleTicksData = [];
 
   const margin = {top: 60, right: 10, bottom: 20, left: 100},
