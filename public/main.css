@@ -4,6 +4,10 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
+#g svg {
+    transform: rotate(270deg);
+}
+
 header {
     width: 50%;
     max-width: 720px;
@@ -24,10 +28,6 @@ header h2 {
     font-size: 2em;
     text-align: center;
     margin: 0;
-}
-
-section {
-
 }
 
 section .section-header {
@@ -67,7 +67,6 @@ strong.female-gender {
 #byline span {
     font-weight: bold;
 }
-
 
 #tooltip {
     width: 260px;
