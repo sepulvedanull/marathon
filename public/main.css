@@ -5,7 +5,7 @@ body {
 }
 
 #g svg {
-    transform: rotate(270deg);
+    /*transform: rotate(270deg);*/
 }
 
 header {
@@ -40,12 +40,6 @@ strong.male-gender {
 
 strong.female-gender {
     color: rgb(247, 148, 29);
-}
-
-#finishers-container {
-    width: 45%;
-    margin: 0 auto;
-    float: right;
 }
 
 #intro {
@@ -92,9 +86,7 @@ strong.female-gender {
 }
 
 .viz-contents {
-    width: 100%;
-    overflow: hidden;
-    position: relative;
+
 }
 
 g.runner {
