@@ -34,7 +34,7 @@ function ready(results) {
 
 
   svg.attrs({
-    'height': width + margin.left + margin.right,
+    'height': 800,
     'width': height + margin.top + margin.bottom
   })
 
@@ -42,12 +42,12 @@ function ready(results) {
 
   const mainContainer = svg.append("g").attrs({
     'id': 'container-main',
-    'transform': `translate(100, 850) rotate(270)`
+    'transform': `translate(100, 710) rotate(270)`
   });
 
   const scaleContainer = svg.append("g").attrs({
     'id': 'container-scale',
-    'transform': `translate(100, 950) rotate(270)`
+    'transform': `translate(100, 805) rotate(270)`
   });
 
 
