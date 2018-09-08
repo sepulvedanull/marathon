@@ -32,21 +32,22 @@ function ready(results) {
       width = 960 - margin.left - margin.right,
       height = ((maxHours - minHours) * 60 * (rsp + w)) - margin.top - margin.bottom;
 
+
   svg.attrs({
-    'width': width + margin.left + margin.right,
-    'height': height + margin.top + margin.bottom
+    'height': 800,
+    'width': height + margin.top + margin.bottom
   })
 
   const timeScale = scaleLinear().domain([minHours * 60, maxHours * 60]).range([0, height]);
 
   const mainContainer = svg.append("g").attrs({
     'id': 'container-main',
-    'transform': `translate(${margin.left}, ${margin.top})`
+    'transform': `translate(100, 710) rotate(270)`
   });
 
   const scaleContainer = svg.append("g").attrs({
     'id': 'container-scale',
-    'transform': `translate(0, ${margin.top})`
+    'transform': `translate(100, 805) rotate(270)`
   });
 
 
