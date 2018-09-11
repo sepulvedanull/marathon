@@ -1,7 +1,7 @@
 Marathon Visualization
 ======================
 
-![marathon viz screenshot](https://raw.githubusercontent.com/trentontri/marathon/master/screenshot.png)
+![marathon viz screenshot](./screenshot.png)
 
 <p align='center'>
 <img src='https://cdn.rawgit.com/trentontri/marathon/master/screenshot.png' width='600' alt='npm start'>
