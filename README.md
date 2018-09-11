@@ -1,7 +1,7 @@
 Marathon Visualization
 ======================
 
-
+![marathon viz screenshot](https://raw.githubusercontent.com/trentontri/marathon/blob/master/screenshot.png)
 
 
 The UI for this project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
