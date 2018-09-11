@@ -3,9 +3,14 @@ Marathon Visualization
 
 ![marathon viz screenshot](./screenshot.png)
 
-<p align='center'>
-<img src='https://cdn.rawgit.com/trentontri/marathon/master/screenshot.png' width='600' alt='npm start'>
-</p>
 
-The UI for this project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+## About
+The purpose of this visualization is to uncover all the interesting stories hidden in the St. Jude Marathon results.
+
+## Quick Overview
+This project runs on D3.js, Node.js and [Create React App](https://github.com/facebookincubator/create-react-app). At the very least you need to download NPM before installing these dependencies.
+```
+git clone https://github.com/trentontri/marathon.git
+npm install
+npm run start
+```
