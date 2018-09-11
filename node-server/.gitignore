@@ -1,7 +1,0 @@
-node_modules/
-venv
-.DS_Store
-*.pyc
-.vscode/
-.idea/
-_designs/
