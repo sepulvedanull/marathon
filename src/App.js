@@ -35,12 +35,13 @@ class App extends Component {
 
     function ready (results) {
 
-      const minMinutes = timeToMinutes(results[0].time_net),
+      // const minMinutes = timeToMinutes(results[0].time_net),
+      const minMinutes = 150,
         maxMinutes = timeToMinutes(results[results.length - 1].time_net),
         minHours = +((minMinutes / 60).toFixed(2)),
         maxHours = Math.round(maxMinutes / 60);
 
-      const scaleTicks = range(153, 470, 15), // (start: 135min, stop:361min, step: 15min)
+      const scaleTicks = range(120, 490, 30), // (start: 135min, stop:361min, step: 15min)
         scaleTicksData = [];
 
       const margin = {top: 60, right: 10, bottom: 20, left: 100},
@@ -169,16 +170,16 @@ class App extends Component {
     }
 
     function drawScale (scaleContainer, timeScale, margin, minMinutes, scaleTicksData) {
-      scaleContainer
-        .append("text")
-        .attrs({
-          'x': margin.left - 15,
-          'y': -18,
-          'text-anchor': 'end',
-          'font-size': '12px',
-          'font-weight': 'bold'
-        })
-        .text("Net finish time");
+      // scaleContainer
+      //   .append("text")
+      //   .attrs({
+      //     'x': margin.left - 15,
+      //     'y': -18,
+      //     'text-anchor': 'end',
+      //     'font-size': '12px',
+      //     'font-weight': 'bold'
+      //   })
+      //   .text("Net finish time");
 
       let gScaleTicks = scaleContainer.selectAll("g.tick")
         .data([{"mins": minMinutes, "runners_below": 0}].concat(scaleTicksData), function (d) {
