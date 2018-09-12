@@ -19,4 +19,4 @@ npm run start
 To contribute any code changes you must create a new branch off of `master` and submit it as a Pull Request. Once the changes have been reviewed your branch will be merged into master.
 
 ## Deployments
-Deployments to http://memphis-marathon.herokuapp.com/ happen automatically when changes are made to the `master` branch.
+Deployments to https://memphis-marathon.herokuapp.com/ happen automatically when changes are made to the `master` branch.
