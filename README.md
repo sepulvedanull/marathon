@@ -20,3 +20,9 @@ To contribute any code changes you must create a new branch off of `master` and 
 
 ## Deployments
 Deployments to https://memphis-marathon.herokuapp.com/ happen automatically when changes are made to the `master` branch.
+
+## Scraping Results Data
+Please make sure you have properly installed Python 3 and pip, follow [this guide](https://docs.python-guide.org/starting/installation/) if you haven't. Once Python 
+
+
+`cd results-scraper/`
