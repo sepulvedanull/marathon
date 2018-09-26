@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
 import { csv } from 'd3-fetch'
 import { select } from 'd3-selection'
 import { scaleLinear } from 'd3-scale'
