@@ -250,11 +250,87 @@ class App extends Component {
     }
 
     function changeState (gRunnersShapes) {
+
       gRunnersShapes
         .transition()
         .delay(0)
         .duration(transitionDuration)
-        .attr("fill", (d) => (d.gender === 'm' ? '#66A9BA' : '#F7941D'))
+        .attr("fill", (d) => '#CCC')
+        .attr("fill", function (d) {
+          if (d.gender === 'm') {
+            if (d.age >= '18' && d.age <= '34') {
+              if (d.time_official <= '3:05:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '35' && d.age <= '39') {
+              if (d.time_official <= '3:10:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '40' && d.age <= '44') {
+              if (d.time_official <= '3:15:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '45' && d.age <= '49') {
+              if (d.time_official <= '3:25:00') {return '#66A9BA'}
+            } else if (d.age >= '50' && d.age <= '54') {
+              if (d.time_official <= '3:30:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '55' && d.age <= '59') {
+              if (d.time_official <= '3:40:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '60' && d.age <= '64') {
+              if (d.time_official <= '3:55:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '65' && d.age <= '69') {
+              if (d.time_official <= '4:10:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '70' && d.age <= '74') {
+              if (d.time_official <= '4:25:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '75' && d.age <= '79') {
+              if (d.time_official <= '4:40:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '80') {
+              if (d.time_official < '4:55:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else {return '#CCC'}
+          }
+          if (d.gender === 'f') {
+            if (d.age >= '18' && d.age <= '34') {
+              if (d.time_official <= '3:35:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '35' && d.age <= '39') {
+              if (d.time_official <= '3:40:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '40' && d.age <= '44') {
+              if (d.time_official <= '3:45:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '45' && d.age <= '49') {
+              if (d.time_official <= '3:55:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '50' && d.age <= '54') {
+              if (d.time_official <= '4:00:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '55' && d.age <= '59') {
+              if (d.time_official <= '4:10:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '60' && d.age <= '64') {
+              if (d.time_official <= '4:25:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '65' && d.age <= '69') {
+              if (d.time_official <= '4:40:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '70' && d.age <= '74') {
+              if (d.time_official <= '4:55:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '75' && d.age <= '79') {
+              if (d.time_official <= '5:10:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else if (d.age >= '80') {
+              if (d.time_official < '5:25:00') {return '#66A9BA'}
+              else { return '#CCC'}
+            } else {return '#CCC'}
+          } else {return '#CCC'}
+        })
+
+      //.attr("fill", (d) => (d.gender === 'm' ? '#66A9BA' : '#F7941D'))
     }
   }
 
