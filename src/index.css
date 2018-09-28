@@ -1,81 +1,81 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: 'Work Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
 }
 
 header {
-  width: 50%;
-  max-width: 100%;
-  margin: 25px;
-  margin-top: 0;
-  position: fixed;
+    width: 50%;
+    max-width: 100%;
+    margin: 25px;
+    margin-top: 0;
+    position: fixed;
 }
 
 header h1 {
-  font-size: 1.5em;
+    font-size: 1.5em;
 }
 
 header h2 {
-  font-weight: normal;
-  font-size: 2em;
-  text-align: center;
-  margin: 0;
+    font-weight: normal;
+    font-size: 2em;
+    text-align: center;
+    margin: 0;
 }
 
 section .section-header {
-  width: 530px;
+    width: 530px;
 }
 
 strong.male-gender {
-  color: rgb(102, 169, 186);
+    color: rgb(102, 169, 186);
 }
 
 strong.female-gender {
-  color: rgb(247, 148, 29);
+    color: rgb(247, 148, 29);
 }
 
 #intro {
-  margin: 0 auto 25px;
-  line-height: 24px;
-  font-size: 14px;
+    margin: 0 auto 25px;
+    line-height: 24px;
+    font-size: 14px;
 }
 
 #intro .date {
-  font-size: 12px;
-  text-transform: capitalize;
+    font-size: 12px;
+    text-transform: capitalize;
 }
 
 #byline {
-  font-size: 12px;
-  margin: 0 auto 30px;
+    font-size: 12px;
+    margin: 0 auto 30px;
 }
 
 #byline span {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 #tooltip {
-  width: 260px;
-  height: 40px;
-  display: none;
-  position: fixed;
-  background-color: #FFF;
-  border: 1px solid #CCC;
-  text-align: center;
-  font-size: 12px;
-  padding: 6px 8px;
-  overflow: hidden;
+    width: 260px;
+    height: 40px;
+    display: none;
+    position: fixed;
+    background-color: #FFF;
+    border: 1px solid #CCC;
+    text-align: center;
+    font-size: 12px;
+    padding: 6px 8px;
+    overflow: hidden;
 }
 
 #tooltip-inside {
-  line-height: 1em;
-  display: table-cell;
-  vertical-align: middle;
+    line-height: 1em;
+    display: table-cell;
+    vertical-align: middle;
 }
 
 #tooltip .time {
-  font-weight: bold;
+    font-weight: bold;
 }
 
 .viz-contents {
@@ -83,55 +83,61 @@ strong.female-gender {
 }
 
 g.runner {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 #container-scale text {
-  fill: #666;
+    fill: #666;
 }
 
 #container-scale line {
-  stroke: #666;
+    stroke: #666;
 }
 
 path {
-  fill: none;
+    fill: none;
 }
 
 #container-notes line, #container-notes path {
-  stroke: #666;
-  stroke-width: 1px;
+    stroke: #666;
+    stroke-width: 1px;
 }
 
 #container-notes text {
-  fill: #666;
+    fill: #666;
 }
 
 #legend {
-  position: fixed;
-  right: 5%;
-  top: 20px;
+    position: fixed;
+    right: 5%;
+    top: 20px;
 }
 
 #legend h3 {
-  margin: 0;
+    margin: 0;
 }
 
 #legend p {
-  margin: 0;
+    margin: 0;
 }
 
 .legend-item span.legend-text {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 12px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
 }
 
 .legend-item span.legend-color {
-  -webkit-border-radius: 1.2em;
-  -moz-border-radius: 1.2em;
-  width: 12px;
-  height: 12px;
-  display: inline-block;
-  margin: 0 4px -2px 0;
-  white-space: nowrap;
+    -webkit-border-radius: 1.2em;
+    -moz-border-radius: 1.2em;
+    width: 12px;
+    height: 12px;
+    display: inline-block;
+    margin: 0 4px -2px 0;
+    white-space: nowrap;
+}
+
+.radio-filters {
+    position: fixed;
+    top: 25%;
+    left: 25px;
 }

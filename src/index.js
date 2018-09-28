@@ -1,8 +1,8 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import registerServiceWorker from './registerServiceWorker';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import './index.css'
+import App from './App'
+import registerServiceWorker from './registerServiceWorker'
 
 ReactDOM.render(<div>
     <header>
@@ -12,6 +12,7 @@ ReactDOM.render(<div>
           complete 26.2 miles through the streets of Memphis, TN. Based on <a href="http://www.besttimescct.com/results/marathon-results-by-place-2017.HTML">public race result data</a>, this
           visualization seeks to explore the data behind the runners.</p>
       </div>
+
     </header>
 
     <App/>
