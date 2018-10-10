@@ -4,12 +4,54 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
+.app-container {
+    width: 100%;
+    max-width: 1600px;
+    margin: auto;
+    border: 1px solid #D9DFE1;
+    border-radius: 3px;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+.canvas-container {
+    position: relative;
+    overflow: hidden;
+}
+
+.canvas-header {
+    width: 100%;
+}
+
+.canvas-header h1 {
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+.canvas-meta {
+    width: 30%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background: #fff;
+}
+
+.canvas {
+    overflow: scroll;
+    width: 70%;
+    float: left;
+}
+
+.canvas svg {
+    margin-top: -250px;
+}
+
 header {
     width: 50%;
     max-width: 100%;
     margin: 25px;
     margin-top: 0;
-    position: fixed;
 }
 
 header h1 {
@@ -134,10 +176,4 @@ path {
     display: inline-block;
     margin: 0 4px -2px 0;
     white-space: nowrap;
-}
-
-.radio-filters {
-    position: fixed;
-    top: 25%;
-    left: 25px;
 }

@@ -451,17 +451,44 @@ class App extends Component {
 
   render() {
     return (
-        <div>
-          <div className={'radio-filters'}>
-            <RadioGroup name="runner-filters" selectedValue={this.state.selectedValue}
-                        onChange={this.handleFilterChange}>
-              <Radio value="default"/> Default view <br/>
-              <Radio value="boston"/>  Boston Marathon qualifiers <br/>
-              <Radio value="gender"/>  Male & Female finishers
-            </RadioGroup>
+        <div className="canvas-container">
+          <div className="canvas-header">
+            <h1><strong>St. Jude</strong> Memphis Marathon Weekend</h1>
+            <div className="canvas-filters">
+              <RadioGroup name="runner-filters" selectedValue={this.state.selectedValue}
+                          onChange={this.handleFilterChange}>
+                <label>
+                  <Radio value="default"/> Default view
+                </label>
+                <label>
+                  <Radio value="boston"/> Boston Marathon qualifiers
+                </label>
+                <label>
+                  <Radio value="gender"/> Male & Female finishers
+                </label>
+              </RadioGroup>
+            </div>
           </div>
-          <svg ref={node => this.node = node}></svg>
-        </div>)
+
+          <div className="canvas">
+            <svg ref={node => this.node = node}></svg>
+          </div>
+          <div className="canvas-meta">
+            <div className="intro">
+              <p>In 2017 St. Jude Children's Research Hospital witnessed 2,347 people
+                complete 26.2 miles through the streets of Memphis, TN. Based on <a
+                    href="http://www.besttimescct.com/results/marathon-results-by-place-2017.HTML">public race result
+                  data</a>,
+                this
+                visualization seeks to explore the data behind the runners.</p>
+            </div>
+            <div className="selected-runner">
+              <hr/>
+              <h3 className="runner-name">Jon Doe</h3>
+            </div>
+          </div>
+        </div>
+    )
   }
 }
 

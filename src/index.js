@@ -5,20 +5,15 @@ import App from './App'
 import ResultsTable from './ResultsTable'
 import registerServiceWorker from './registerServiceWorker'
 
-ReactDOM.render(<div>
-    <header>
-      <h1><strong>St. Jude</strong> Memphis Marathon Weekend</h1>
-      <div className="intro">
-        <p>In 2017 St. Jude Children's Research Hospital witnessed 2,347 people
-          complete 26.2 miles through the streets of Memphis, TN. Based on <a href="http://www.besttimescct.com/results/marathon-results-by-place-2017.HTML">public race result data</a>, this
-          visualization seeks to explore the data behind the runners.</p>
-      </div>
+ReactDOM.render(
+    <div className="app-container">
+      <header>
 
-    </header>
+      </header>
 
-    <App/>
+      <App/>
 
-  <ResultsTable />
-  </div>
-  , document.getElementById('root'));
+      <ResultsTable/>
+    </div>
+    , document.getElementById('root'));
 registerServiceWorker();
