@@ -4,6 +4,8 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var express = require('express');
+var fs = require('fs');
+var runners = require(__dirname + '/src/data/runners.json');
 
 var index = require('./routes/index');
 
@@ -17,6 +19,13 @@ app.set('view engine', 'pug');
 app.get('/', function(req, res) {
   res.sendFile(path.join(__dirname + '/build/index.html'));
 });
+
+app.get('/runners', function (req, res) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  res.status(200).send(runners);
+  // res.json(runners)
+})
 
 // uncomment after placing your favicon in /client
 //app.use(favicon(path.join(__dirname, 'client', 'favicon.ico')));
