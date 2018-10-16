@@ -13,8 +13,9 @@ class App extends Component {
   constructor(props) {
     super(props)
     this.state = {
-      selectedValue: 'default'
-    }
+      selectedValue: 'default',
+      activeRunner: null
+
   }
 
   componentDidMount = () => {
@@ -181,16 +182,6 @@ class App extends Component {
     }
 
     function drawScale(scaleContainer, timeScale, margin, minMinutes, scaleTicksData) {
-      // scaleContainer
-      //   .append("text")
-      //   .attrs({
-      //     'x': margin.left - 15,
-      //     'y': -18,
-      //     'text-anchor': 'end',
-      //     'font-size': '12px',
-      //     'font-weight': 'bold'
-      //   })
-      //   .text("Net finish time");
 
       let gScaleTicks = scaleContainer.selectAll("g.tick")
           .data([{"mins": minMinutes, "runners_below": 0}].concat(scaleTicksData), function (d) {
@@ -256,8 +247,10 @@ class App extends Component {
     }
 
     function drawLegend(d) {
-      const legendText = `<h3 style="color:${d.gender === 'm' ? '#66A9BA' : '#F7941D'}"> ${d.name} </h3><p>Position: <strong>${d.position_overall}</strong></p><p>Finishing time: <strong>${d.time_net}</strong></p>`;
-      select("#legend").html(legendText);
+      // const legendText = `<h3 style="color:${d.gender === 'm' ? '#66A9BA' : '#F7941D'}"> ${d.name} </h3><p>Position: <strong>${d.position_overall}</strong></p><p>Finishing time: <strong>${d.time_net}</strong></p>`;
+      // select("#legend").html(legendText);
+      this.setState({activeRunner: d.name})
+      console.log(d)
     }
 
     function changeState(gRunnersShapes) {
@@ -491,6 +484,7 @@ class App extends Component {
             <div className="selected-runner">
               <hr/>
               <h3 className="runner-name">Jon Doe</h3>
+              <p>{this.state.activeRunner}</p>
             </div>
           </div>
         </div>
