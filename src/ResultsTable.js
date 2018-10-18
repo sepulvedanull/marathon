@@ -40,7 +40,7 @@ class ResultsTable extends Component {
               <td>{runner.State}</td>
               <td>{/*runner.Clock Time*/}</td>
               <td>{/*runner.Bib#*/}</td>
-              <td><a href="http://www.youtube.com/watch?v=YiBSNzj9YZk&amp;t=8291s">{runner.Link}</a></td>
+
             </tr>
         )
       })
@@ -76,7 +76,6 @@ class ResultsTable extends Component {
               <th>State</th>
               <th>Clock Time</th>
               <th>Bib#</th>
-              <th>Link</th>
             </tr>
             {this.renderResults()}
             </tbody>
