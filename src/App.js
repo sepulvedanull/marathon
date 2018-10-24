@@ -467,26 +467,6 @@ class App extends Component {
           <div className="canvas">
             <svg ref={node => this.node = node}></svg>
           </div>
-          <div className="canvas-meta">
-            <div className="intro">
-              <p>In 2017 St. Jude Children's Research Hospital witnessed 2,347 people
-                complete 26.2 miles through the streets of Memphis, TN. Based on <a
-                    href="http://www.besttimescct.com/results/marathon-results-by-place-2017.HTML">public race result
-                  data</a>,
-                this
-                visualization seeks to explore the data behind the runners.</p>
-            </div>
-            <div className="selected-runner">
-              <hr/>
-              {!this.state.activeRunner ||
-              <div>
-                <h3>{this.state.activeRunner.name}</h3>
-                <p>{this.state.activeRunner.age}</p>
-              </div>
-              }
-            </div>
-
-          </div>
 
         </div>
     )

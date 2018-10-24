@@ -42,7 +42,7 @@ body {
 
 .canvas {
     overflow: scroll;
-    width: 70%;
+    width: 100%;
     float: left;
 }
 
