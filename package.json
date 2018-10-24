@@ -8,7 +8,7 @@
     "build-server": "babel server.js -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "api": "node_modules/.bin/nodemon index.js --exec babel-node --"
+    "api": "nodemon index.js --exec babel-node --"
   },
   "dependencies": {
     "body-parser": "~1.18.2",
