@@ -4,17 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
-"beautifulsoup4" = "*"
 pandas = "*"
+requests = "*"
 lxml = "*"
-"html5lib" = "*"
-"html5li" = "*"
-json = "*"
-flask = "*"
 
 [dev-packages]
-"autopep8" = "*"
 
 [requires]
 python_version = "3.7"
