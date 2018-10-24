@@ -437,17 +437,6 @@ class App extends Component {
         <div className="canvas-container">
           <div className="canvas-header">
             <h1><strong>St. Jude</strong> Memphis Marathon Weekend</h1>
-
-            <div className="event-filters">
-              <Select className="event-year" options={[{value: '2017', label: '2017'}, {value: '2016', label: '2016'}, {
-                value: '2015',
-                label: '2015'
-              }, {value: '2014', label: '2014'}]}/>
-              <Select className="event-type" options={[{value: 'marathon', label: 'marathon'}, {
-                value: 'half-marathon',
-                label: 'half-marathon'
-              }, {value: '10k', label: '10k'}, {value: '5k', label: '5k'}]}/>
-            </div>
             <div className="canvas-filters">
               <RadioGroup name="runner-filters" selectedValue={this.state.selectedValue}
                           onChange={this.handleFilterChange}>
