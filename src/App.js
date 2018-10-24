@@ -173,6 +173,9 @@ class App extends Component {
   }
 
   drawLegend = (d) => {
+    const legendText = `<h3 style="color:${d.gender === 'm' ? '#66A9BA' : '#F7941D'}"> ${d.name} </h3><p>Position: <strong>${d.position_overall}</strong></p><p>Finishing time: <strong>${d.time_net}</strong></p>`;
+    select("#legend").html(legendText);
+
     this.setState({activeRunner: d})
   }
 
@@ -437,20 +440,6 @@ class App extends Component {
         <div className="canvas-container">
           <div className="canvas-header">
             <h1><strong>St. Jude</strong> Memphis Marathon Weekend</h1>
-            <div className="canvas-filters">
-              <RadioGroup name="runner-filters" selectedValue={this.state.selectedValue}
-                          onChange={this.handleFilterChange}>
-                <label>
-                  <Radio value="default"/> Default view
-                </label>
-                <label>
-                  <Radio value="boston"/> Boston Marathon qualifiers
-                </label>
-                <label>
-                  <Radio value="gender"/> Male & Female finishers
-                </label>
-              </RadioGroup>
-            </div>
           </div>
 
           <div className="canvas">
