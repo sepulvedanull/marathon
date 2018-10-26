@@ -5,18 +5,14 @@ body {
 }
 
 .app-container {
-    width: 100%;
     max-width: 1600px;
-    margin: auto;
-    border: 1px solid #D9DFE1;
-    border-radius: 3px;
-    margin-top: 25px;
-    padding: 10px;
+    width: 100%;
 }
 
 .canvas-container {
     position: relative;
     overflow: hidden;
+    padding: 15px;
 }
 
 .canvas-header {
@@ -24,7 +20,6 @@ body {
 }
 
 .canvas-header h1 {
-    text-transform: uppercase;
     font-size: 1em;
     display: inline-block;
 }
@@ -193,18 +188,53 @@ table.results th {
 
 .canvas-header h1 {
     display: inline-block;
+    margin-right: 10px;
+    margin-top: 1.2em;
+    float: left;
 }
 
 .event-filters {
     display: inline-block;
+    float: right;
 }
 
 .event-filters .event-year {
-    width: 250px;
     display: inline-block;
 }
 
 .event-filters .event-type {
-    width: 250px;
     display: inline-block;
+    margin-left: 20px;
+}
+
+.primary-header {
+    width: 70%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.secondary-header {
+    width: 30%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.event-filters p{
+    display: inline-block;
+    font-size: 13px;
+}
+
+.event-filters .dropdown-filter {
+    display: inline-block;
+    font-size: 13px;
+}
+
+.event-year .dropdown-filter {
+    width: 100px;
+    margin: 10px;
+}
+
+.event-type .dropdown-filter {
+    width: 150px;
+    margin: 10px;
 }
