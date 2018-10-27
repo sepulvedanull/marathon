@@ -1,5 +1,6 @@
 import pandas as pd
 import requests
+import glob
 # import json
 # import html5lib
 
@@ -30,5 +31,50 @@ def parse_2017_results():
 
     return
 
+def parse_txt_results():
+    # loadFile = 'https://www.stjude.org/content/dam/en_US/shared/www/fundraising-programs/memphis-marathon-weekend/results/2014/marathon-results-by-place-2014.txt'
+    # loadFile = './data/marathon-results-by-place-2014.txt'
 
-parse_2017_results()
+    years = [2014,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003]
+    colNames = ["Place", "First Name", "Last Name", "Age", "Sex/plc", "Sex", "Time", "Pace", "City", "St", "Bib No"]
+    colNames2008 = ["Place", "First Name", "Last Name", "Age", "Sex/plc", "Sex", "Time", "Pace", "City", "St"]
+    # data = pd.read_fwf(loadFile, error_bad_lines=False)
+
+    for x in years:
+        files = glob.glob("./clean/" + str(x) + "/*.txt")
+        if x > 2008:
+            useCols = colNames
+        else:
+            useCols = colNames2008
+
+        for name in files:
+            if "half-marathon" in name:
+                outfileName = "half_marathon"
+            elif "5k" in name:
+                outfileName = "5k"
+            else:
+                outfileName = "marathon"
+
+            data = pd.read_fwf(name, error_bad_lines=False, names=useCols, header=None)
+            json = data.to_json(orient='records')
+
+            with open("./data/" + str(x) + "/" + str(outfileName) + ".json", 'w') as outfile:
+                 outfile.write(json)
+
+        # print(useCols)
+
+
+
+    # print(data)
+    # json = data.to_json(orient='records')
+    # print(json)
+    # data = pd.concat(tables[0:len(tables)])
+    #
+    # with open('./data/2014/marathon.json', 'w') as outfile:
+    #      outfile.write(data.to_json(orient='records'))
+
+    return
+
+
+# parse_2017_results()
+parse_txt_results()

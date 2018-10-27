@@ -1,0 +1,1347 @@
+    1 Chris Hollinden         24       1 M     16:37  5:22 TELL CITY TN
+    2 Jay Goldstein           23       2 M     17:51  5:46 GERMANTOWN TN
+    3 Jen Alessandro          26       1 F     17:52  5:46 LOUISVILLE KY
+    4 Curt Arthur             37       3 M     18:06  5:51 MEMPHIS TN
+    5 Ben Loats               16       4 M     18:22  5:56 OVERLAND PARK KS
+    6 Jared Elmer             14       5 M     19:50  6:24 MEMPHIS TN
+    7 Gregg Dewire            41       6 M     20:14  6:32 ATLANTA GA
+    8 Garrison Turner         16       7 M     20:33  6:38 MEMPHIS TN
+    9 Jesus Gonzalez          24       8 M     20:40  6:40 CHAMPAIGN IL
+   10 Raul Parada             23       9 M     20:42  6:41 URBANA IL
+   11 Chuk Bible              43      10 M     20:44  6:42 MEMPHIS TN
+   12 Pamela Campbell         48       2 F     20:46  6:42 CENTRALIA IL
+   13 John Amis               38      11 M     20:49  6:43 MEMPHIS TN
+   14 Benjamin Carswell       30      12 M     20:50  6:44 WINDSOR ON
+   15 Jimmy Arnold            53      13 M     20:52  6:44 BARTLETT TN
+   16 Cole Stockstill         10      14 M     20:56  6:46 GERMANTOWN TN
+   17 Victor Guevara          24      15 M     20:58  6:46 CHAMPAIGN IL
+   18 James Tatum             14      16 M     20:58  6:46 MEMPHIS TN
+   19 Ray Vandeventer         51      17 M     21:04  6:48 GERMANTOWN TN
+   20 David Bond              57      18 M     21:04  6:48 CARBONDALE IL
+   21 Alex Alpe               50      19 M     21:14  6:51 CRAWFORDSVILLE AR
+   22 Josh Power              32      20 M     21:18  6:53 JONESBORO AR
+   23 Kenny Graves            43      21 M     21:23  6:54 HARRISBURG AR
+   24 Wilkes Poteete          18      22 M     21:23  6:54 HENDERSON TN
+   25 Caleb Mayeur            16      23 M     21:25  6:55 COLUMBIA TN
+   26 Lynn Tiller             53      24 M     21:30  6:56 HOHENWALD TN
+   27 Steven Ross             59      25 M     21:35  6:58 CORDOVA TN
+   28 Harrison Matheny        14      26 M     21:39  7:00 LAKELAND TN
+   29 Lane Kreiling           14      27 M     21:45  7:01 MASON CITY IL
+   30 William Storey          34      28 M     21:50  7:03 GERMANTOWN TN
+   31 Joel Alsup              26      29 M     21:58  7:06 MEMPHIS TN
+   32 Brian Rosloniec         17      30 M     22:01  7:06 CORDOVA TN
+   33 Jared Montegut          34      31 M     22:03  7:07 MEMPHIS TN
+   34 Wes Pollard             35      32 M     22:06  7:08 MEMPHIS TN
+   35 Glen Stewart            62      33 M     22:07  7:09 COLLIERVILLE TN
+   36 Greg Graber             41      34 M     22:10  7:09 MEMPHIS TN
+   37 Cabryna Butcher         15       3 F     22:19  7:12 MARION AR
+   38 Jason Thompson          31      35 M     22:20  7:13 FAIRHOPE AL
+   39 Lance Daugherty         62      36 M     22:21  7:13 ATOKA TN
+   40 Jeffrey Lowder          24      37 M     22:24  7:14 MEMPHIS TN
+   41 Kellen Kjera            25      38 M     22:27  7:15 MEMPHIS TN
+   42 Mayson Morrissett       11       4 F     22:32  7:16 BARTLETT TN
+   43 Joe Howard              12      39 M     22:42  7:20 MEMPHIS TN
+   44 Will MacPherson         14      40 M     22:48  7:22 MEMPHIS TN
+   45 Jon Vancil              42      41 M     22:49  7:22 MEMPHIS TN
+   46 Russell Birdwell        26      42 M     22:51  7:23 MEMPHIS TN
+   47 Brittany Pellegra       19       5 F     22:55  7:24 MEMPHIS TN
+   48 Richard Schelp          43      43 M     23:02  7:26 GERMANTOWN TN
+   49 Amanda Rhea             25       6 F     23:09  7:28 OLIVE BRANCH MS
+   50 Matt White              25      44 M     23:11  7:29 MONTEVALLO AL
+   51 Rick Braden             28      45 M     23:12  7:29 FULTONDALE AL
+   52 Eric Menefee            39      46 M     23:12  7:29 GERMANTOWN TN
+   53 Seth Oden               45      47 M     23:13  7:30 FRANKLIN TN
+   54 Meshelle Whitt          46       7 F     23:13  7:30 HUNTSVILLE AL
+   55 Camille Vancil          50       8 F     23:16  7:31 MEMPHIS TN
+   56 Keith Watkins           32      48 M     23:20  7:32 CARBONDALE KS
+   57 Heath Hodges            20      49 M     23:20  7:32 CONWAY AR
+   58 Ron Kay                 39      50 M     23:21  7:32 MEMPHIS TN
+   59 Giacomo Ciabattini      46      51 M     23:22  7:33 GERMANTOWN TN
+   60 Laurie Griesbeck        43       9 F     23:24  7:33 MEMPHIS TN
+   61 Bill Nelson             51      52 M     23:27  7:34 MEMPHIS TN
+   62 Neal Dries              15      53 M     23:31  7:35 COLLIERVILLE TN
+   63 Eric Cloud              28      54 M     23:34  7:36 MEMPHIS TN
+   64 Crystal Eldridge        24      10 F     23:35  7:37 MURFREESBORO TN
+   65 Melissa Maginnis        27      11 F     23:35  7:37 NASHVILLE TN
+   66 David Donald            54      55 M     23:37  7:37 MADISON MS
+   67 James Lauderdale Jr.    18      56 M     23:51  7:42 HENDERSON TN
+   68 Christopher Champion    33      57 M     23:53  7:43 NASHVILLE TN
+   69 Michael Fournier        22      58 M     23:53  7:43 CORDOVA TN
+   70 Jessica Tatum           13      12 F     24:00  7:45 MEMPHIS TN
+   71 Don Smith               54      59 M     24:01  7:45 BARTLETT TN
+   72 Tori Hale               14      13 F     24:06  7:47 BARTLETT TN
+   73 Jameson Hale            12      60 M     24:06  7:47 BARTLETT TN
+   74 Stacie Beverly          23      14 F     24:07  7:47 MEMPHIS TN
+   75 Mike Jennings           54      61 M     24:09  7:48 LEPANTO AR
+   76 Alison Young            21      15 F     24:10  7:48 MEMPHIS TN
+   77 Robert Thompson         16      62 M     24:10  7:48 HENDERSON TN
+   78 Mark Doyle              42      63 M     24:12  7:49 BARTLETT TN
+   79 Scott Flowers           28      64 M     24:14  7:50 CLARKSDALE MS
+   80 David Short             45      65 M     24:15  7:50 CORDOVA TN
+   81 Lynn Patterson          48      16 F     24:17  7:50 MARTIN TN
+   82 John Roelofs            57      66 M     24:19  7:51 CORDOVA TN
+   83 Sheri Mann              45      17 F     24:20  7:51 YORKTOWN VA
+   84 Aaron Workman           26      67 M     24:29  7:54 MEMPHIS TN
+   85 Barbara Zoccola         45      18 F     24:29  7:54 MEMPHIS TN
+   86 Tyler Slocum            14      68 M     24:30  7:54 OLIVE BRANCH MS
+   87 Kathleen Richard        22      19 F     24:32  7:55 HENDERSON TN
+   88 John Doyle              47      69 M     24:37  7:57 MEMPHIS TN
+   89 Susan Link              38      20 F     24:38  7:57 CORDOVA TN
+   90 Lee Faulkner            38      70 M     24:39  7:57 MARION AR
+   91 Katie Mandrell          24      21 F     24:43  7:59 CLARKSVILLE TN
+   92 Craig Hofer             46      71 M     24:43  7:59 CORDOVA TN
+   93 Dora Chen               11      22 F     24:44  7:59 OXFORD MS
+   94 Shane Delima            24      72 M     24:46  8:00 GERMANTOWN TN
+   95 Shannon Joyner          35      73 M     24:47  8:00 GRAY GA
+   96 Timothy Davis           36      74 M     24:51  8:01 SOUTHAVEN MS
+   97 Krystian Seweryn        27      75 M     24:52  8:01 MEMPHIS TN
+   98 Joe Williams            28      76 M     24:53  8:02 COLLIERVILLE TN
+   99 Matthew McKinstry       12      77 M     24:53  8:02 BARTLETT TN
+  100 Carol Keller            50      23 F     24:54  8:02 ST. LOUIS MO
+  101 Nicole Adams            24      24 F     24:56  8:03 MEMPHIS TN
+  102 Mark Allen              44      78 M     24:57  8:03 CORDOVA TN
+  103 Kimberly Porter         32      25 F     24:58  8:04 CONWAY AR
+  104 Madison Raborn          15      79 M     24:58  8:04 MONROE LA
+  105 Greg McRae              28      80 M     24:59  8:04 OLIVE BRANCH MS
+  106 William Nelson          14      81 M     25:00  8:04 MEMPHIS TN
+  107 Dan Morrissett          38      82 M     25:00  8:04 BARTLETT TN
+  108 Shannon Connolly        28      26 F     25:02  8:05 MEMPHIS TN
+  109 Clint Moore             34      83 M     25:02  8:05 CORDOVA TN
+  110 Mike Ryan               62      84 M     25:12  8:08 MEMPHIS TN
+  111 Phillip Kirsch          26      85 M     25:13  8:08 GERMANTOWN TN
+  112 Steven Allen            40      86 M     25:14  8:09 BARTLETT TN
+  113 Charlie Winfield        52      87 M     25:20  8:11 ARLINGTON TN
+  114 Brett Rehberg           28      88 M     25:23  8:12 MEMPHIS TN
+  115 Jamie Hullum            20      27 F     25:25  8:12 MISSISSIPPI STATE MS
+  116 John Gurney             36      89 M     25:25  8:12 COLLIERVILLE TN
+  117 Cole Lee                14      90 M     25:28  8:13 OLIVE BRANCH MS
+  118 Dale Shaw               46      28 F     25:30  8:14 COLLINSVILLE IL
+  119 Jim Berdeguez           43      91 M     25:32  8:14 DIAMONDHEAD MS
+  120 Art Dettmer             29      92 M     25:38  8:17 CHICAGO IL
+  121 Ashley Johnson          17      29 F     25:40  8:17 HARRISON TN
+  122 Becky Ryder             62      30 F     25:40  8:17 HATTIESBURG MS
+  123 Ashley Ruggles          22      31 F     25:44  8:18 CHESTERFIELD MO
+  124 Noah Sondag             13      93 M     25:46  8:19 OLIVE BRANCH MS
+  125 Yvette Smith            34      32 F     25:47  8:19 MEMPHIS TN
+  126 Daniel Watkins          16      94 M     25:48  8:20 GERMANTOWN TN
+  127 Tommy Floyd             59      95 M     25:52  8:21 GERMANTOWN TN
+  128 Alecia Faulkner         47      33 F     25:55  8:22 BENTON KY
+  129 Jaime Beamish           14      34 F     25:56  8:22 GERMANTOWN TN
+  130 Daniel Muga             34      96 M     25:57  8:23 CORDOVA TN
+  131 John Quinton            69      97 M     25:58  8:23 LISLE IL
+  132 Corrinne Cross          22      35 F     25:59  8:23 LAKELAND TN
+  133 Sean Adkins             39      98 M     25:59  8:23 WARTRACE TN
+  134 Jessica Kneeland        15      36 F     25:59  8:23 GERMANTOWN TN
+  135 Adam Dove               32      99 M     26:00  8:24 GUIN AL
+  136 James Fant              30     100 M     26:02  8:24 MEMPHIS TN
+  137 Joseph Harvey           28     101 M     26:02  8:24 MEMPHIS TN
+  138 Eric Baker              23     102 M     26:03  8:24 LEXINGTON KY
+  139 Kayleigh Klaustermeier  20      37 F     26:07  8:26 HOMEWOOD AL
+  140 Monte Cooper            33     103 M     26:10  8:27 MEDON TN
+  141 Colin Burress           33     104 M     26:11  8:27 MEMPHIS TN
+  142 Amy Word                32      38 F     26:12  8:27 SOUTHAVEN MS
+  143 Chris Alexander         34     105 M     26:12  8:27 JACKSON TN
+  144 Karen Lester            60      39 F     26:15  8:28 ST. LOUIS MO
+  145 Baron Muga              30     106 M     26:15  8:29 CORDOVA TN
+  146 Carson Schelp            9     107 M     26:16  8:29 GERMANTOWN TN
+  147 Wesley Burt             33     108 M     26:16  8:29 CRAWFORDSVILLE AR
+  148 Tom Davis               59     109 M     26:18  8:29 ATHENS WV
+  149 Allen Strong            39     110 M     26:18  8:29 BARTLETT TN
+  150 Ethan Champion          14     111 M     26:19  8:30 HOPKINSVILLE KY
+  151 Camille Green           13      40 F     26:20  8:30 MONROE LA
+  152 Morgan Chelette         13      41 F     26:20  8:30 WEST  MONROE LA
+  153 Sarah Leighty           20      42 F     26:20  8:30 LAKE CITY FL
+  154 Steve Shapard           58     112 M     26:20  8:30 MEMPHIS TN
+  155 Valeri Merritt          45      43 F     26:24  8:31 GULFPORT MS
+  156 Megan Smith             20      44 F     26:29  8:33 DUNLAP TN
+  157 Missy Stockstill        46      45 F     26:30  8:33 GERMANTOWN TN
+  158 Allison Huskey          10      46 F     26:32  8:34 POPLAR BLUFF MO
+  159 Jason Ely               22     113 M     26:33  8:34 BARTLETT TN
+  160 Brooke Marshall         26      47 F     26:34  8:35 MEMPHIS TN
+  161 Bryan Marshall          26     114 M     26:37  8:35 MEMPHIS TN
+  162 Kelli Duggan            14      48 F     26:38  8:36 EVANSVILLE IN
+  163 Kevin Harder            39     115 M     26:38  8:36 MURFREESBORO TN
+  164 Brandon McWherter       30     116 M     26:40  8:36 JACKSON TN
+  165 Trevor Duke             40     117 M     26:41  8:37 CHARLOTTE NC
+  166 Tracy Banks             36      49 F     26:43  8:38 HERNANDO MS
+  167 Brittany Bradford       19      50 F     26:44  8:38 HENDERSON TN
+  168 Julia Huck              17      51 F     26:45  8:38 POPLAR BLUFF AR
+  169 Elsa Kanner             23      52 F     26:47  8:39 JACKSONVILLE AR
+  170 Casey Blackwelder       15      53 F     26:47  8:39 RUSTON LA
+  171 Ee-Laine Cheong         29      54 F     26:48  8:39 MEMPHIS TN
+  172 Josh Hopkins            15     118 M     26:49  8:39 OLIVE BRANCH MS
+  173 Traci Stewart           47      55 F     26:51  8:40 GERMANTOWN TN
+  174 Harry Davies            64     119 M     26:53  8:41 LEWIS DE
+  175 Kortne Frederick        27      56 F     26:53  8:41 MEMPHIS TN
+  176 Jack Koban              25     120 M     26:53  8:41 MEMPHIS TN
+  177 Eric Spohn              21     121 M     26:57  8:42 HENDERSON TN
+  178 Phillip Hill            42     122 M     27:02  8:44 GLENPOOL OK
+  179 Scott Wills             31     123 M     27:04  8:44 CORDOVA TN
+  180 Jeff Word               35     124 M     27:04  8:44 SOUTHAVEN MS
+  181 Edward Thorpe           26     125 M     27:04  8:44 MEMPHIS TN
+  182 Seth Parrish            37     126 M     27:05  8:45 MEMPHIS TN
+  183 Chris Rindin            14     127 M     27:05  8:45 COLLIERVILLE TN
+  184 Hannah Parrish           9      57 F     27:06  8:45 MEMPHIS TN
+  185 Jacki Runnels           40      58 F     27:06  8:45 MENDENHALL MS
+  186 Richard Phillips        23     128 M     27:08  8:46 VESTAVIA HILLS AL
+  187 Thomas Terry            44     129 M     27:09  8:46 ARLINGTON TN
+  188 Jessica King            21      59 F     27:10  8:46 BARTLETT TN
+  189 Denver Hudsmith         10     130 M     27:11  8:46 MEMPHIS TN
+  190 Donald Price            44     131 M     27:11  8:47 WOODSTOCK GA
+  191 Grant Rohman            27     132 M     27:12  8:47 MEMPHIS TN
+  192 Ruby Guevarra           38      60 F     27:17  8:48 MILLINGTON TN
+  193 Bryan Artiles           29     133 M     27:17  8:48 MEMPHIS TN
+  194 Michael Enders          55     134 M     27:17  8:49 JACKSON MO
+  195 Leonard Beauchamp       31     135 M     27:18  8:49 LAKELAND TN
+  196 Mike Agapos             44     136 M     27:19  8:49 MEMPHIS TN
+  197 Bruce France            58     137 M     27:22  8:50 SOUTHAVEN MS
+  198 Oscar Blythe            35     138 M     27:23  8:50 GERMANTOWN TN
+  199 Michael Leaver          12     139 M     27:27  8:52 SMYRNA TN
+  200 Philip Rojas            37     140 M     27:28  8:52 MEMPHIS TN
+  201 Trish Pontius           51      61 F     27:30  8:53 MEMPHIS TN
+  202 Holly Hensarling        29      62 F     27:31  8:53 ARLINGTON TN
+  203 Brandon Cartwright      27     141 M     27:31  8:53 MEMPHIS TN
+  204 Bruce Holbrook          56     142 M     27:33  8:53 MEMPHIS TN
+  205 Mike Thomas             25     143 M     27:33  8:54 BRENTWOOD TN
+  206 Chris McKnatt           32     144 M     27:35  8:54 SOUTHAVEN MS
+  207 Theresa Wilcutt         46      63 F     27:37  8:55 BARTLETT TN
+  208 Leo Leclaire            75     145 M     27:39  8:56 MEDFIELD MA
+  209 Jennifer Ellen Reese    26      64 F     27:49  8:59 OLIVE BRANCH MS
+  210 Leslie Caraway          26      65 F     27:51  8:59 SHREVEPORT LA
+  211 Anna Knighten           27      66 F     27:55  9:01 SOUTHAVEN MS
+  212 Cynthia Pensondeau      30      67 F     27:57  9:01 MEMPHIS TN
+  213 Mark Brayfield          48     146 M     27:57  9:01 SHERMAN IL
+  214 Chad Holland            32     147 M     27:57  9:01 CORDOVA TN
+  215 Ginger Holland          32      68 F     27:57  9:01 CORDOVA TN
+  216 Brad Kubik              31     148 M     27:59  9:02 BROOKLINE MO
+  217 Greg Kubik              32     149 M     27:59  9:02 BATTLEFIELD MO
+  218 William Jones           15     150 M     28:01  9:02 WOODSTOCK GA
+  219 Allyson McCollum        22      69 F     28:01  9:02 MEMPHIS TN
+  220 Win Price               13     151 M     28:04  9:03 WOODSTOCK GA
+  221 Stephanie Wheeless      25      70 F     28:06  9:04 WEST MEMPHIS AR
+  222 Melanie Dakin           43      71 F     28:07  9:05 MEMPHIS TN
+  223 Mary Poplawski          37      72 F     28:09  9:05 COLLIERVILLE TN
+  224 Rick Wills              54     152 M     28:10  9:05 BARTLETT TN
+  225 Kenneth Williams        46     153 M     28:11  9:06 COLORADO SPRINGS CO
+  226 Thomas Duke             11     154 M     28:11  9:06 MEMPHIS TN
+  227 Erin Nutter             22      73 F     28:11  9:06 COLLIERVILLE TN
+  228 Melanie Shafer          30      74 F     28:12  9:06 BARTLETT TN
+  229 Raymond Holmes          22     155 M     28:12  9:06 BARTLETT TN
+  230 Marcia Rhodes           57      75 F     28:13  9:06 MEMPHIS TN
+  231 Karen Gurley            45      76 F     28:14  9:07 JACKSON TN
+  232 Jennifer Hickerson      21      77 F     28:16  9:07 LYNVILLE TN
+  233 Sean Dugan              11     156 M     28:17  9:08 DRESDEN TN
+  234 Julie Flowers           26      78 F     28:18  9:08 CLARKSDALE MS
+  235 Daniel Massee           11     157 M     28:20  9:09 GERMANTOWN TN
+  236 Michael Harvey          36     158 M     28:20  9:09 GERMANTOWN TN
+  237 Regina Huck             49      79 F     28:20  9:09 POPLAR BLUFF MO
+  238 Meagan Rice             19      80 F     28:28  9:11 JONESBORO AR
+  239 Tom Hyle                32     159 M     28:28  9:11 MEMPHIS TN
+  240 Steven Tatro            28     160 M     28:29  9:12 OLIVE BRANCH MS
+  241 Jeffrey Shinabarger     26     161 M     28:32  9:13 DECATUR GA
+  242 Sullivan Smith           8     162 M     28:34  9:13 COOKEVILLE TN
+  243 Robert Gilmour          52     163 M     28:35  9:13 OXFORD IA
+  244 Tom Powell              27     164 M     28:35  9:13 MEMPHIS TN
+  245 Kati McNeil             27      81 F     28:36  9:14 MEMPHIS TN
+  246 Lindsay Nieman          24      82 F     28:37  9:14 WEST MONROE LA
+  247 Betty May               56      83 F     28:37  9:14 SOUTHAVEN MS
+  248 Katelyn Westbrook       12      84 F     28:39  9:15 OLIVE BRANCH MS
+  249 Sydney Slocum           10      85 F     28:41  9:16 OLIVE BRANCH MS
+  250 Sarah Cloud             32      86 F     28:42  9:16 CORDOVA TN
+  251 Collins Mikell          52     165 M     28:42  9:16 MEMPHIS TN
+  252 Jason Miles             99     166 M     28:43  9:16 MEMPHIS TN
+  253 Matt Marshall           23     167 M     28:43  9:16 MEMPHIS TN
+  254 Christopher Rafert      32     168 M     28:44  9:16 FORTVILLE IN
+  255 Rob Mann                55     169 M     28:46  9:17 YORKTOWN VA
+  256 Lynn Scroggin           53      87 F     28:46  9:17 ROSWELL GA
+  257 Emily Pera              29      88 F     28:46  9:17 MEMPHIS TN
+  258 Jeffery Harmon          18     170 M     28:47  9:17 EL DORADO AR
+  259 Nancy Christner         19      89 F     28:47  9:17 ARKADELPHIA AR
+  260 Greg Rohde              15     171 M     28:48  9:18 BARTLETT TN
+  261 Ben Pinnington          99     172 M     28:50  9:18 JACKSON TN
+  262 Rodney Hall             40     173 M     28:50  9:18 OLIVE BRANCH MS
+  263 Jason Grissom           26     174 M     28:50  9:19 SOUTHAVEN MS
+  264 Henry King              54     175 M     28:52  9:19 METAIRIE LA
+  265 Chuck Jones             38     176 M     28:53  9:19 SEYMOUR TN
+  266 Mary Catherine Tagg     26      90 F     28:59  9:21 MEMPHIS TN
+  267 Stephanie Ziegler       37      91 F     29:00  9:22 MEMPHIS TN
+  268 Andrew Kiraly           20     177 M     29:02  9:22 GERMANTOWN TN
+  269 Eddie Good              67     178 M     29:03  9:23 MEMPHIS TN
+  270 Jacqueline Muga         32      92 F     29:05  9:23 CORDOVA TN
+  271 Greg Brown              31     179 M     29:07  9:24 CORDOVA TN
+  272 Jaclyn Otten            20      93 F     29:08  9:24 OLIVE BRANCH MS
+  273 Mike Lowery             41     180 M     29:09  9:25 LAKELAND TN
+  274 David Lowery            35     181 M     29:10  9:25 COLUMBIA MS
+  275 Amy Beckley             44      94 F     29:10  9:25 DYERSBURG TN
+  276 Brandon Jackson         22     182 M     29:12  9:26 MORRIS CHAPEL TN
+  277 Brian Janz              45     183 M     29:13  9:26 GERMANTOWN TN
+  278 Jonathan Tucker         31     184 M     29:14  9:26 LITTLE ROCK AR
+  279 Dana Warrington         38      95 F     29:16  9:27 GREENVILLE MS
+  280 Jeanine Schierbecker    46      96 F     29:16  9:27 LAKE SAINT LOUIS MO
+  281 Addison Forsdick         9     185 M     29:17  9:27 MEMPHIS TN
+  282 David Caffey            44     186 M     29:18  9:27 MEMPHIS TN
+  283 Rosie Jupson            25      97 F     29:18  9:27 MEMPHIS TN
+  284 Josh Autry               9     187 M     29:18  9:27 MEMPHIS TN
+  285 Julie Douglass          22      98 F     29:19  9:28 MEMPHIS TN
+  286 Audra Bares             23      99 F     29:19  9:28 MEMPHIS TN
+  287 Scott Cooper            34     188 M     29:20  9:28 MEMPHIS TN
+  288 Jocelyn Woods           28     100 F     29:21  9:28 MEMPHIS TN
+  289 Ann Morris              33     101 F     29:22  9:29 OSCEOLA AR
+  290 Rickey Nelson           19     189 M     29:25  9:30 LA CYGNE KS
+  291 Luke Moylan             33     190 M     29:25  9:30 FONTANA KS
+  292 Kristina Bennett        29     102 F     29:25  9:30 COLLIERVILLE TN
+  293 Michelle Luis           24     103 F     29:25  9:30 MEMPHIS TN
+  294 Les MacDiarmid          60     191 M     29:25  9:30 MARTIN TN
+  295 Leslie Patterson         9     104 F     29:25  9:30 MARTIN TN
+  296 Chris Strong            46     105 F     29:26  9:30 GERMANTOWN TN
+  297 Charles Marchbanks      47     192 M     29:26  9:30 WEST MONROE LA
+  298 Amanda King             25     106 F     29:26  9:30 MEMPHIS TN
+  299 Joshua Oathout          14     193 M     29:27  9:30 LEES SUMMIT MO
+  300 Detra Burleson          36     107 F     29:28  9:31 GERMANTOWN TN
+  301 Maurie Wright           30     108 F     29:29  9:31 SOUTHAVEN MS
+  302 Gina Norman             50     109 F     29:30  9:31 MEMPHIS TN
+  303 Dennis Paganoni         25     194 M     29:32  9:32 ARLINGTON TN
+  304 Jacob Mondragon         15     195 M     29:33  9:32 BARTLETT TN
+  305 Donald Park             52     196 M     29:33  9:32 MEMPHIS TN
+  306 Laurie Stetelman        46     110 F     29:37  9:34 HATTIESBURG MS
+  307 Bethany Oliver          18     111 F     29:40  9:34 MUSCLE SHOALS AL
+  308 Wayne Dever             46     197 M     29:40  9:35 SOUTHAVEN MS
+  309 Evelyn Dever            39     112 F     29:40  9:35 SOUTHAVEN MS
+  310 Nguyen Webster          35     113 F     29:44  9:36 COLLIERVILLE TN
+  311 Hilton Chin             35     198 M     29:44  9:36 GERMANTOWN TN
+  312 Beau Reinberg           26     199 M     29:45  9:36 VILLA RIDGE MO
+  313 Yuhling Hwang           44     114 F     29:45  9:36 OXFORD MS
+  314 Dale Parsons            47     200 M     29:46  9:37 PITTSBURG KS
+  315 Jim Briske              67     201 M     29:47  9:37 GERMANTOWN TN
+  316 Beverly Pickens         57     115 F     29:49  9:37 BARTLETT TN
+  317 Sarah Knowles           16     116 F     29:50  9:38 DUBACK LA
+  318 Cody Blackwelder        18     202 M     29:50  9:38 RUSTON LA
+  319 April Mims              20     117 F     29:54  9:39 MEMPHIS TN
+  320 Micky Gum               48     203 M     29:55  9:39 POPLAR BLUFF MO
+  321 Lesley Johnson          24     118 F     29:57  9:40 LYON MS
+  322 Leslie Tiensvold        22     119 F     29:57  9:40 NASHVILLE TN
+  323 Jennifer Gentry         16     120 F     29:58  9:40 MEMPHIS TN
+  324 Mike Hiatt              57     204 M     29:58  9:40 NASHVILLE TN
+  325 Don Panter              44     205 M     29:59  9:41 COLLIERVILLE TN
+  326 Kristine Vanderwyden    24     121 F     30:00  9:41 NASHVILLE TN
+  327 Jennie Sherard          28     122 F     30:00  9:41 SHERARD MS
+  328 John Hofer              13     206 M     30:01  9:41 CORDOVA TN
+  329 Penn Joe                52     207 M     30:03  9:42 MEMPHIS TN
+  330 Charles Dowda           26     208 M     30:03  9:42 MEMPHIS TN
+  331 Kari Smith              34     123 F     30:04  9:42 MEMPHIS TN
+  332 Kathy Norris            48     124 F     30:04  9:42 MUNFORD TN
+  333 Becca Jones             57     125 F     30:04  9:42 JACKSON TN
+  334 Rosemarie Amburgey      39     126 F     30:06  9:43 CORDOVA TN
+  335 Maggie Lovell           30     127 F     30:06  9:43 MEMPHIS TN
+  336 Sarah Jackson           28     128 F     30:06  9:43 TRUMANN AR
+  337 Shelby Panter           12     129 F     30:07  9:43 COLLIERVILLE TN
+  338 Payton Elkins           11     209 M     30:08  9:44 MEMPHIS TN
+  339 Bethany Brown           16     130 F     30:09  9:44 HENDERSON TN
+  340 Thomas Mascari          33     210 M     30:09  9:44 COLLIERVILLE TN
+  341 Dan Elkins              38     211 M     30:09  9:44 MEMPHIS TN
+  342 Ryan Beasley            25     212 M     30:12  9:45 PARIS TN
+  343 Ronald Payne            30     213 M     30:13  9:45 BOSSIER CITY LA
+  344 Robert Gatere           30     214 M     30:15  9:46 MEMPHIS TN
+  345 Todd Morris             28     215 M     30:15  9:46 MEMPHIS TN
+  346 Chase Coker             10     216 M     30:15  9:46 HENDERSONVILLE TN
+  347 James Loomis            59     217 M     30:17  9:46 CENTRALIA IL
+  348 Rachel Hofer            10     131 F     30:18  9:47 CORDOVA TN
+  349 David Hatton            31     218 M     30:18  9:47 SOUTHAVEN MS
+  350 Greg Green              46     219 M     30:19  9:47 MONROE LA
+  351 Alan Moreland           34     220 M     30:21  9:48 MEMPHIS TN
+  352 Brad Evans              41     221 M     30:21  9:48 SOUTHAVEN MS
+  353 Mark Fruitt             41     222 M     30:22  9:48 CORDOVA TN
+  354 Jessica Rhea            26     132 F     30:23  9:48 GERMANTOWN TN
+  355 Tracy Tickle            33     133 F     30:23  9:49 MEMPHIS TN
+  356 Johnny Cryer            41     223 M     30:24  9:49 CORDOVA TN
+  357 Stevan Steinhart        55     224 M     30:26  9:50 NASHVILLE TN
+  358 Juanita Bleecker        54     134 F     30:28  9:50 JERSEY CITY NJ
+  359 Kelly Hollinden         23     135 F     30:28  9:50 TELL CITY TN
+  360 Laura Jackson           41     136 F     30:29  9:50 SOUTHAVEN MS
+  361 Bryan Jackson           47     225 M     30:30  9:51 SOUTHAVEN MS
+  362 Vicki Hilpp             34     137 F     30:30  9:51 HATTIESBURG MS
+  363 Jacqueline Shanks       24     138 F     30:31  9:51 CORDOVA TN
+  364 Michael Barnette        27     226 M     30:31  9:51 OLIVE BRANCH MS
+  365 Joe Huck                51     227 M     30:31  9:51 POPLAR BLUFF MO
+  366 Casey Weatherford       23     139 F     30:32  9:51 MEMPHIS TN
+  367 Jamie Seessel           28     140 F     30:32  9:51 GERMANTOWN TN
+  368 Michelle Whitten        38     141 F     30:33  9:52 OLIVE BRANCH MS
+  369 Harrison Stewart        11     228 M     30:33  9:52 GERMANTOWN TN
+  370 Laura Schemel           25     142 F     30:34  9:52 MEMPHIS TN
+  371 Laurie Moss             41     143 F     30:34  9:52 BYHALIA MS
+  372 Rae Best                39     144 F     30:35  9:52 MONTGOMERY AL
+  373 Ramey Cryer             39     145 F     30:37  9:53 CORDOVA TN
+  374 Thomas Claybrook        56     229 M     30:37  9:53 MEMPHIS TN
+  375 Kim Brewer              29     146 F     30:38  9:53 GERMANTOWN TN
+  376 Amber Williamson        28     147 F     30:38  9:53 COLLIERVILLE TN
+  377 Vanessa Durfee          27     148 F     30:41  9:54 PADUCAH KY
+  378 Jessica Barnwell        15     149 F     30:42  9:54 SPARTA TN
+  379 Emily Young             16     150 F     30:42  9:54 MEMPHIS TN
+  380 Mich Tarlton            28     230 M     30:42  9:55 MADISON MS
+  381 Maggie Bay              25     151 F     30:43  9:55 JACKSON TN
+  382 Kacy Harmon             27     231 M     30:44  9:55 MEMPHIS TN
+  383 Jessica Hardy           24     152 F     30:45  9:55 GERMANTOWN TN
+  384 Lydia Miller            28     153 F     30:45  9:56 RUSSELLVILLE AR
+  385 Earl Hudgens            45     232 M     30:48  9:56 BARTLETT TN
+  386 Tiane Leonard           21     154 F     30:48  9:57 MEMPHIS TN
+  387 Ed Hullender            56     233 M     30:49  9:57 MARIETTA GA
+  388 Preston Hayne Matthews  44     234 M     30:49  9:57 OXFORD MS
+  389 Holly Mosby             25     155 F     30:50  9:57 MEMPHIS TN
+  390 Jennifer Hamilton       23     156 F     30:50  9:57 CORDOVA TN
+  391 Dvorah Waldman          31     157 F     30:51  9:57 MEMPHIS TN
+  392 Amy Morris              32     158 F     30:51  9:57 MEMPHIS TN
+  393 Kyle McClure            31     235 M     30:52  9:58 MEMPHIS TN
+  394 Scott Brazil            29     236 M     30:52  9:58 SOUTHAVEN MS
+  395 Julie Faulkner          35     159 F     30:56  9:59 MARION AR
+  396 Leanne Massee           19     160 F     30:57  9:59 GERMANTOWN TN
+  397 Susan Dodson            42     161 F     30:58 10:00 DANVILLE IL
+  398 Laura Bishop            34     162 F     30:58 10:00 COLLIERVILLE TN
+  399 Angela Soler            22     163 F     31:01 10:01 HENDERSON TN
+  400 John Pierce             29     237 M     31:02 10:01 BYHALIA MS
+  401 Courtney Pope           18     164 F     31:02 10:01 HENDERSON TN
+  402 Mary Penter             26     165 F     31:02 10:01 TRUMANN AR
+  403 Lisa Newton             48     166 F     31:03 10:01 OLIVE BRANCH MS
+  404 Keith Logan             53     238 M     31:04 10:02 CORDOVA TN
+  405 Bryan Carmichael        13     239 M     31:04 10:02 MEMPHIS TN
+  406 Brian Stallings         29     240 M     31:06 10:02 MEMPHIS TN
+  407 Favian Delima           23     241 M     31:07 10:03 GERMANTOWN TN
+  408 Noy Jones               35     167 F     31:08 10:03 MURFREESBORO TN
+  409 Bob Green               55     242 M     31:12 10:04 BASTROP LA
+  410 Dianne Polly            54     168 F     31:12 10:04 MEMPHIS TN
+  411 J Michael Smith         54     243 M     31:12 10:04 BASTROP LA
+  412 Butch Jones             44     244 M     31:13 10:05 METROPOLIS IL
+  413 Traci Buck              25     169 F     31:15 10:05 MEMPHIS TN
+  414 Paige Coleman           35     170 F     31:16 10:05 MEMPHIS TN
+  415 Scott Wilson            22     245 M     31:19 10:06 HENDERSON TN
+  416 Whitney Carter          18     171 F     31:20 10:07 HENDERSON TN
+  417 Michael Plumlee         36     246 M     31:21 10:07 SOUTHAVEN MS
+  418 Brandon Smith           12     247 M     31:22 10:07 ARLINGTON TN
+  419 Misty Feller            27     172 F     31:22 10:08 ARLINGTON TN
+  420 Jenny Cobb              22     173 F     31:24 10:08 HENDERSON TN
+  421 Julie Shapard           53     174 F     31:25 10:09 MEMPHIS TN
+  422 Michael Stuart          43     248 M     31:26 10:09 FRISCO TX
+  423 Lisa Underwood          40     175 F     31:28 10:09 MURFREESBORO TN
+  424 Wanda Parker            46     176 F     31:29 10:10 MEMPHIS TN
+  425 Wade Clayton            37     249 M     31:31 10:10 EADS TN
+  426 Laura Lloyd             20     177 F     31:32 10:11 HENDERSON TN
+  427 Meredith Carlson        26     178 F     31:35 10:12 MEMPHIS TN
+  428 Wendy Rhea              25     179 F     31:35 10:12 CORDOVA TN
+  429 April Bizot             34     180 F     31:37 10:12 MEMPHIS TN
+  430 Jessica Rindin          12     181 F     31:39 10:13 COLLIERVILLE TN
+  431 Ginger Law              19     182 F     31:43 10:14 HENDERSON TN
+  432 Tyler Jones             21     250 M     31:43 10:14 HENDERSON TN
+  433 Joyce Martin            56     183 F     31:49 10:16 GERMANTOWN TN
+  434 Kathy Kramer            52     184 F     31:49 10:16 CORDOVA TN
+  435 Frank Hess              51     251 M     31:50 10:16 BARTLETT TN
+  436 Fablola Francis         41     185 F     31:51 10:17 CORDOVA TN
+  437 Julian Kulidk           39     252 M     31:52 10:17 PANAMA CITY BEACH FL
+  438 Thomas Stoll            42     253 M     31:55 10:18 COLLIERVILLE TN
+  439 Jordan Raborn           12     186 F     31:56 10:18 MONROE LA
+  440 Gina Epperson           52     187 F     31:57 10:19 CORDOVA TN
+  441 Matthew Graves          28     254 M     31:58 10:19 HENDERSONVILLE TN
+  442 Sarah Piwonka           47     188 F     31:59 10:19 MEMPHIS TN
+  443 Christy Long            19     189 F     31:59 10:19 COLLIERVILLE TN
+  444 Paul Gehrki             23     255 M     32:00 10:20 FAYETTEVILLE AR
+  445 Debbie McAdams          40     190 F     32:01 10:20 EL DORADO AR
+  446 Terri Stanford          45     191 F     32:02 10:20 RIPLEY MS
+  447 Lucas Hunter            11     256 M     32:03 10:21 CARTERVILLE IL
+  448 Dawn Poole              43     192 F     32:03 10:21 PARIS TN
+  449 Kristyn Gumz            21     193 F     32:04 10:21 HENDERSON TN
+  450 Bill Barker             38     257 M     32:08 10:22 MEMPHIS TN
+  451 Lauren Burch            20     194 F     32:08 10:22 FLORENCE AL
+  452 Sissie Ferguson         60     195 F     32:09 10:22 LAKE CORMORANT MS
+  453 Allen Moore             40     258 M     32:10 10:23 MILLINGTON TN
+  454 Gail Streete            57     196 F     32:10 10:23 MEMPHIS TN
+  455 Jamie Padgett           25     197 F     32:10 10:23 MEMPHIS TN
+  456 Cecilia Villa           33     198 F     32:11 10:23 MEMPHIS TN
+  457 Romero Caldera          27     259 M     32:11 10:23 MEMPHIS TN
+  458 Dewey Smith             42     260 M     32:11 10:23 WEST MEMPHIS AR
+  459 Lynn Jennings           35     199 F     32:11 10:23 OLD HICKORY TN
+  460 Ben Lowery              37     261 M     32:16 10:25 SMITHDALE MS
+  461 Amy Wilson              17     200 F     32:17 10:25 GERMANTOWN TN
+  462 Colm Newson             11     262 M     32:18 10:25 COOKEVILLE TN
+  463 Nicolas Cruz             9     263 M     32:19 10:26 SPARTA TN
+  464 Sullivan Smith          47     264 M     32:19 10:26 COOKEVILLE TN
+  465 Stephanie Walters       24     201 F     32:19 10:26 COLLIERVILLE TN
+  466 Jennifer Winchester     23     202 F     32:20 10:26 GERMANTOWN TN
+  467 McLean Panter           16     265 M     32:20 10:26 COLLIERVILLE TN
+  468 Jennifer Wilson         36     266 M     32:22 10:27 LIZELLA GA
+  469 Marilyn Long            48     203 F     32:23 10:27 COLLIERVILLE TN
+  470 Cyndie Baker            33     204 F     32:26 10:28 ATOKA TN
+  471 Randall Rice            19     267 M     32:27 10:29 HENDERSON TN
+  472 Wes Price               14     268 M     32:29 10:29 WOODSTOCK GA
+  473 Stephanie Bilbo         20     205 F     32:29 10:29 CARRIERE MS
+  474 Kathy Deyo              54     206 F     32:30 10:29 MEMPHIS TN
+  475 Jonathan Fryday         37     269 M     32:30 10:29 WEST MONROE LA
+  476 Allison Burchyett       31     207 F     32:32 10:30 HERNANDO MS
+  477 Rick Porter             99     270 M     32:35 10:31 BERRYVILLE AR
+  478 Davin Garner            11     271 M     32:35 10:31 DYERSBURG TN
+  479 Jessica Brown           28     208 F     32:37 10:32 MEMPHIS TN
+  480 Mindy Irwin             22     209 F     32:38 10:32 GERMANTOWN TN
+  481 Wanda Hullender         55     210 F     32:40 10:33 MARIETTA GA
+  482 Kathi Vandeven          42     211 F     32:40 10:33 FENTON MO
+  483 Maeson Morgan           13     212 F     32:41 10:33 JONESBORO AR
+  484 Chris Campbell          40     272 M     32:43 10:34 MEMPHIS TN
+  485 Anthony Bower           30     273 M     32:44 10:34 NEW ALBANY IN
+  486 Daniel Snyder            8     274 M     32:45 10:34 BOWLING GREEN OH
+  487 Luke Porter             14     275 M     32:46 10:34 BAUXITE AR
+  488 Leticia Trevi�o         49     213 F     32:47 10:35 MONTERREY NUEVO LE
+  489 Ian Tacderas            10     276 M     32:48 10:35 CARTERVILLE IL
+  490 Angelito Tacderas       48     277 M     32:48 10:35 CARTERVILLE IL
+  491 Juana Velie             27     214 F     32:51 10:36 JACKSON TN
+  492 Chonna Larry            22     215 F     32:51 10:36 MEMPHIS TN
+  493 Kiarra Parks             7     216 F     32:51 10:36 MEMPHIS TN
+  494 Kimberly Ciamarra       27     217 F     32:54 10:37 ALPHARETTA GA
+  495 Lisa Janz               46     218 F     32:54 10:37 GERMANTOWN TN
+  496 William Ware            18     278 M     32:54 10:37 MEMPHIS TN
+  497 Zachary Jones           16     279 M     32:54 10:37 BARTLETT TN
+  498 Sean Darst               8     280 M     32:55 10:37 GERMANTOWN TN
+  499 Matthew Ware            27     281 M     32:55 10:37 MEMPHIS TN
+  500 Meghann McGehee         19     219 F     32:55 10:38 HENDERSON TN
+  501 Megan Applewhite        19     220 F     32:55 10:38 HENDERSON TN
+  502 Larry Darst             44     282 M     32:56 10:38 GERMANTOWN TN
+  503 Preston Davis           10     283 M     32:57 10:38 COLUMBUS MS
+  504 Brad Jones              28     284 M     32:57 10:38 JACKSON MS
+  505 Stephanie Raines        26     221 F     32:58 10:38 BELLS TN
+  506 Gina Duncan             26     222 F     32:58 10:38 JACKSON TN
+  507 Danielle Prestipino     26     223 F     32:58 10:39 ST LOUIS PARK MN
+  508 Whitney Morse           24     224 F     32:59 10:39 DALLAS TX
+  509 Melanie Woods           23     225 F     33:00 10:39 MEMPHIS TN
+  510 Latarius Harris         25     285 M     33:00 10:39 MEMPHIS TN
+  511 James O'Connor          52     286 M     33:01 10:39 POPLAR BLUFF MO
+  512 Kim Graves              44     226 F     33:03 10:40 HARRISBURG AR
+  513 Joel Hayes              20     287 M     33:04 10:40 HENDERSON TN
+  514 Ashley Tiller           22     227 F     33:04 10:40 HOHENWALD TN
+  515 Kerri Bower             29     228 F     33:06 10:41 NEW ALBANY IN
+  516 Michael Neill           34     288 M     33:07 10:41 ATHENS TX
+  517 John Ward               46     289 M     33:11 10:42 EADS TN
+  518 Sarah Perry             30     229 F     33:11 10:42 OLIVE BRANCH MS
+  519 Edmund Deangelis        58     290 M     33:11 10:43 DEARBORN MI
+  520 John Colton             68     291 M     33:12 10:43 MEMPHIS TN
+  521 Lori Kyle               31     230 F     33:12 10:43 ARLINGTON TN
+  522 Jennifer Carpenter      31     231 F     33:13 10:43 LAKELAND TN
+  523 Kacy Collier            24     232 F     33:14 10:44 HERNANDO MS
+  524 William Davis           36     292 M     33:15 10:44 COLUMBUS MS
+  525 Victor Lowery           39     293 M     33:15 10:44 MCCOMM MS
+  526 Jake Gamble             44     294 M     33:17 10:44 LA FONTAINE IN
+  527 Don J Baker             50     295 M     33:18 10:45 MEMPHIS TN
+  528 Robbin Dunkum           38     233 F     33:19 10:45 LITTLE ROCK AR
+  529 Angie Harris            46     234 F     33:19 10:45 GERMANTOWN TN
+  530 Phillip Gersman         28     296 M     33:19 10:45 EDWARDSVILLE IL
+  531 Christopher John        27     297 M     33:21 10:46 MEMPHIS TN
+  532 Julie Metzger           47     235 F     33:22 10:46 CAPE GIRARDEAU MO
+  533 Rose Banks              23     236 F     33:24 10:47 HENDERSON TN
+  534 Stephen Berger          54     298 M     33:24 10:47 MEMPHIS TN
+  535 Sydney Green            15     237 F     33:25 10:47 MONROE LA
+  536 Cassie Clark            15     238 F     33:25 10:47 MONROE LA
+  537 Janice Lauer            47     239 F     33:26 10:47 KIRKWOOD MO
+  538 Emily Reppond           16     240 F     33:26 10:47 STERLINGTON LA
+  539 Susan West              37     241 F     33:26 10:47 COLLIERVILLE TN
+  540 Jim Jacobs              73     299 M     33:27 10:48 GERMANTOWN TN
+  541 Bobby Wright            42     300 M     33:28 10:48 CORDOVA TN
+  542 Eric Smith              40     301 M     33:28 10:48 BARTLETT TN
+  543 Ashley Holland          15     242 F     33:32 10:49 GLADEVILLE TN
+  544 Lassie Flowers          61     243 F     33:32 10:49 DUBLIN MS
+  545 Don Oliver              43     302 M     33:33 10:50 LAKELAND TN
+  546 Erica N Warren          21     244 F     33:33 10:50 MEMPHIS TN
+  547 Drew Liberto            12     303 M     33:36 10:51 MEMPHIS TN
+  548 Ruth Gammell            49     245 F     33:37 10:51 SOUTHAVEN MS
+  549 Donna Hertling          55     246 F     33:38 10:51 GREENVILLE SC
+  550 Shalon Fewell           46     247 F     33:38 10:51 CORDOVA TN
+  551 James Carson            49     304 M     33:40 10:52 SOUTHAVEN MS
+  552 Donna Hofer             43     248 F     33:40 10:52 CORDOVA TN
+  553 Corle Ventura           30     249 F     33:41 10:52 MEMPHIS TN
+  554 Theo Travers            29     305 M     33:41 10:52 MEMPHIS TN
+  555 Brian Burford           40     306 M     33:41 10:52 MARION AR
+  556 Linda Lipinski          62     250 F     33:42 10:53 MEMPHIS TN
+  557 Michelle Artiles        31     251 F     33:42 10:53 MEMPHIS TN
+  558 Eli Stokes              14     307 M     33:44 10:53 PRAIRIE GROVE AR
+  559 Jeffery Gordon          19     308 M     33:45 10:54 CLARKSVILLE TN
+  560 David Bailey            41     309 M     33:46 10:54 COLLIERVILLE TN
+  561 Erin Warf               25     252 F     33:46 10:54 OLIVE BRANCH MS
+  562 Richard Newson          50     310 M     33:47 10:54 COOKEVILLE TN
+  563 Jeremy Chastain         37     311 M     33:51 10:55 FORTUVILLE IN
+  564 Matthew Tully           38     312 M     33:51 10:56 FISHERS IA
+  565 Rena White              31     253 F     33:52 10:56 ATOKA TN
+  566 Denise Nelson           45     254 F     33:53 10:56 MEMPHIS TN
+  567 Eric Magre              54     313 M     33:54 10:56 FESTUS MO
+  568 Janine Nesin            37     255 F     33:56 10:57 MADISON AL
+  569 Kyle Burns              11     314 M     33:57 10:57 BETHEL SPRINGS TN
+  570 Micah Smith             30     315 M     33:57 10:58 HENDERSON TN
+  571 Lauren Hale             19     256 F     33:58 10:58 TYRONZA AR
+  572 Adam White              41     316 M     33:59 10:58 MEMPHIS TN
+  573 Ashlie Young            14     257 F     34:00 10:58 PINEVILLE LA
+  574 Melissa Braud           37     258 F     34:00 10:58 BATON ROUGE LA
+  575 Kimberly Henrikson      23     259 F     34:01 10:59 ARLINGTON TN
+  576 Daphne Bawcum           44     260 F     34:02 10:59 BARTLETT TN
+  577 Boone Mashburn          21     317 M     34:02 10:59 HENDERSON TN
+  578 Ashley Harris           20     261 F     34:02 10:59 HENDERSON TN
+  579 George Miller           28     318 M     34:05 11:00 GERMANTOWN TN
+  580 Jessica Petrich         10     262 F     34:07 11:01 MEMPHIS TN
+  581 Ann Barton              39     263 F     34:08 11:01 GRENADA MS
+  582 Trisha McCallister      41     264 F     34:09 11:01 GRENADA MS
+  583 Betty Thurman           63     265 F     34:09 11:01 PRAIRIE GROVE AR
+  584 Heather Manchester      21     266 F     34:10 11:02 JACKSON TN
+  585 Jeremy Manchester       24     319 M     34:10 11:02 JACKSON TN
+  586 Rachel Noel             17     267 F     34:11 11:02 LA CYGNE KS
+  587 Jill Driver             23     268 F     34:11 11:02 SHAWNEE KS
+  588 Marcus Rountree         18     320 M     34:11 11:02 LAKELAND TN
+  589 Addison Renfrow         11     269 F     34:11 11:02 OLIVE BRANCH MS
+  590 Michael Stevens         19     321 M     34:11 11:02 MILLINGTON TN
+  591 Keegan Westbrook         7     322 M     34:15 11:03 OLIVE BRANCH MS
+  592 Angie Brazil            29     270 F     34:18 11:04 SOUTHAVEN MS
+  593 Talia Haviv             32     271 F     34:21 11:05 NEW YORK NY
+  594 Meridith Berger         33     272 F     34:21 11:05 NEW YORK NY
+  595 Alicia McPherson        36     273 F     34:22 11:06 HAUGHTON LA
+  596 Mason Moody             11     323 M     34:22 11:06 WEST MONROE LA
+  597 Katelyn Shackelford     12     274 F     34:23 11:06 JONESBORO AR
+  598 Ryan Hayes              29     324 M     34:23 11:06 PADUCAH KY
+  599 Amanda Newman           16     275 F     34:23 11:06 CORDOVA TN
+  600 Bailey Vaughan          10     325 M     34:24 11:06 WEST MONROE LA
+  601 Holly Fleming           47     276 F     34:24 11:06 BARTLETT TN
+  602 Gary Kaufman            12     326 M     34:24 11:06 WEST MONROE LA
+  603 Kembree Daeakshani      30     277 F     34:25 11:06 CORDOVA TN
+  604 Jim Gasch               11     327 M     34:25 11:07 SAINT PETERS MO
+  605 Patrick Caraway         32     328 M     34:26 11:07 SHREVEPORT LA
+  606 Ross Hamilton           61     329 M     34:26 11:07 CORDOVA TN
+  607 Karen Spencer           37     278 F     34:26 11:07 CORDOVA TN
+  608 Susan Henley            39     279 F     34:27 11:07 TALLADEGA AL
+  609 Amanda Tidmore          34     280 F     34:29 11:08 NASHVILLE TN
+  610 Danielle Witherspoon    20     281 F     34:29 11:08 CORDOVA TN
+  611 Katie Everhart          23     282 F     34:30 11:08 TRUMANN AR
+  612 Lisa Baxter             39     283 F     34:32 11:09 ROLLA MO
+  613 Chris Chilton           32     330 M     34:34 11:09 DICKSON TN
+  614 Michelle Barbarone      36     284 F     34:34 11:10 ROSEMONT IL
+  615 Carl Weiss              46     331 M     34:36 11:10 MEMPHIS TN
+  616 Alesa Davis             48     285 F     34:36 11:10 LITTLE ROCK AR
+  617 Kelly Kheradvar         43     286 F     34:39 11:11 ARLINGTON TN
+  618 Anita Angelacci         54     287 F     34:40 11:11 CORDOVA TN
+  619 Mary Lowery             27     332 M     34:40 11:11 COLUMBIA MS
+  620 William Rayburn         48     333 M     34:40 11:11 OXFORD MS
+  621 Hayden Morrissett       12     288 F     34:44 11:13 BARTLETT TN
+  622 Caroline Albright       11     289 F     34:44 11:13 COLLIERVILLE TN
+  623 Julie Goodwin           41     290 F     34:45 11:13 BURNS TN
+  624 Angelita Mathena        34     291 F     34:46 11:13 MEMPHIS TN
+  625 Amanda Tatro            29     292 F     34:47 11:14 OLIVE BRANCH MS
+  626 Blake Berrios           12     334 M     34:47 11:14 BARTLETT TN
+  627 Gene Williams           45     335 M     34:48 11:14 BARTLETT TN
+  628 Tony Morris             41     336 M     34:48 11:14 LAKELAND TN
+  629 Margaret Rebman         30     293 F     34:48 11:14 MEMPHIS TN
+  630 Josh Bougher            10     337 M     34:49 11:14 CORDOVA TN
+  631 Emily Terrell           16     294 F     34:50 11:15 NESBIT MS
+  632 Martin Lipinski         64     338 M     34:51 11:15 MEMPHIS TN
+  633 Melissa Alford          24     295 F     34:53 11:15 GERMANTOWN TN
+  634 Ansley Albright         39     296 F     34:53 11:16 COLLIERVILLE TN
+  635 Alison Massee           13     297 F     34:54 11:16 GERMANTOWN TN
+  636 Cathy Rottmann          55     298 F     34:54 11:16 GREENFIELD WI
+  637 Andrea Cerbin           27     299 F     34:56 11:17 MEMPHIS TN
+  638 Brenda Woods            41     300 F     34:56 11:17 WALLS MS
+  639 Rudy Runnels            59     339 M     34:58 11:17 MENDENHALL MS
+  640 Trudy Martin            50     301 F     34:59 11:18 CORDOVA TN
+  641 Tasha Palmer            99     302 F     34:59 11:18 BARTLETT TN
+  642 Halie Fryday            11     303 F     35:01 11:18 WEST MONROE LA
+  643 Catherine Mandas        25     304 F     35:02 11:18 MEMPHIS TN
+  644 Stephanie Jones         07     305 F     35:02 11:19 MEMPHIS TN
+  645 Alexa Cotton            10     306 F     35:03 11:19 LISLE IL
+  646 Brad Newcomer           28     340 M     35:03 11:19 MEMPHIS TN
+  647 Trent Johnson           11     341 M     35:03 11:19 OMAHA NE
+  648 Andy Vaughan            37     342 M     35:04 11:19 WEST MONROE LA
+  649 David Sisco Jr          38     343 M     35:06 11:20 HORN LAKE MS
+  650 Brittney Harmon         19     307 F     35:06 11:20 EL DORADO AR
+  651 Vicki Harmon            43     308 F     35:06 11:20 EL DORADO AR
+  652 Hannah Collins          15     309 F     35:10 11:21 COLLIERVILLE TN
+  653 Peter Hunt              37     344 M     35:13 11:22 MEMPHIS TN
+  654 Peter Hammon            38     345 M     35:15 11:23 LA GRANGE IL
+  655 Michael Jones           40     346 M     35:17 11:23 BARTLETT TN
+  656 Mary Elizabeth Washbur  25     310 F     35:20 11:24 MEMPHIS TN
+  657 Courtney Huckabay       26     311 F     35:21 11:24 COLUMBUS OH
+  658 Michael Myrick          33     347 M     35:23 11:25 SOUTHAVEN MS
+  659 Ernesto Flores          42     348 M     35:24 11:26 PICO RIVERA CA
+  660 James Cook              20     349 M     35:24 11:26 HENDERSON TN
+  661 Kristie Strong          34     312 F     35:24 11:26 BARTLETT TN
+  662 Kim Gill                26     313 F     35:25 11:26 MEMPHIS TN
+  663 Robert Childs            8     350 M     35:26 11:26 RIPLEY MS
+  664 Melissa Sullivan        29     314 F     35:27 11:26 ST. CHARLES MO
+  665 Lauren Morton           21     315 F     35:27 11:26 HENDERSON TN
+  666 Lawryn Kasper           38     316 F     35:36 11:30 CORDOVA TN
+  667 Jessica Wilgoette       16     317 F     35:39 11:30 MILLINGTON TN
+  668 Jennifer Panter         46     318 F     35:40 11:31 COLLIERVILLE TN
+  669 Kathryn Cook            55     319 F     35:41 11:31 BROWNSVILLE TN
+  670 Fariss Adams            28     320 F     35:41 11:31 MEMPHIS TN
+  671 Sarah Ray               18     321 F     35:42 11:31 SAVANNAH TN
+  672 Mike Bullard            36     351 M     35:42 11:31 CORDOVA TN
+  673 Susan Massee            48     322 F     35:43 11:32 GERMANTOWN TN
+  674 Holly Magre             11     323 F     35:44 11:32 FESTUS MO
+  675 Ross Hurst              22     352 M     35:45 11:32 GERMANTOWN TN
+  676 Susan Hilbert           54     324 F     35:45 11:32 SAINTE GENEVIEVE MO
+  677 Melissa Vandeven        13     325 F     35:45 11:32 FENTON MO
+  678 Melissa Rogers          32     326 F     35:46 11:33 BELTON MO
+  679 Mark Wootton            43     353 M     35:48 11:33 RIDGELAND MS
+  680 William Hecht           50     354 M     35:49 11:33 CORDOVA TN
+  681 Caitlin Lipovsky        22     327 F     35:49 11:33 MEMPHIS TN
+  682 Rebecca Bastnagel       22     328 F     35:49 11:34 BARTLETT TN
+  683 Amy Dunnavant           20     329 F     35:50 11:34 HENDERSON TN
+  684 Dawn Aidinian           26     330 F     35:50 11:34 HOUSTON TX
+  685 Debbie Crews            22     331 F     35:51 11:34 OLIVE BRANCH MS
+  686 Caroline Hudsmith       12     332 F     35:51 11:34 MEMPHIS TN
+  687 Daniel Rodocker         21     355 M     35:53 11:35 CLARKSVILLE TN
+  688 Kaitlin Tillman         10     333 F     35:53 11:35 MEMPHIS TN
+  689 Ted Day                 46     356 M     35:54 11:35 ROLLA MO
+  690 Kim Day                 44     334 F     35:54 11:35 ROLLA MO
+  691 Ginna Tillman           40     335 F     35:54 11:35 MEMPHIS TN
+  692 Judy Hyle               30     336 F     35:54 11:35 MEMPHIS TN
+  693 David Moncrief          35     357 M     35:55 11:36 MARION AR
+  694 Emilee Hudsmith          9     337 F     35:55 11:36 MEMPHIS TN
+  695 Stephanie Scott         25     338 F     35:56 11:36 GERMANTOWN TN
+  696 Dean Makinster          31     358 M     35:56 11:36 GERMANTOWN TN
+  697 Gene Cook               47     359 M     35:56 11:36 ARLINGTON TN
+  698 Margaret Lee            41     339 F     35:57 11:36 MEMPHIS TN
+  699 Anitra Morgan-Gilliom   41     340 F     35:59 11:37 MEMPHIS TN
+  700 Carley Robertson        15     341 F     36:00 11:37 GERMANTOWN TN
+  701 Joann Mangan            59     342 F     36:03 11:38 FESTUS MO
+  702 Robin Parrish           47     343 F     36:04 11:38 JACKSON TN
+  703 Mark Lalumondier        36     360 M     36:05 11:39 HENDERSONVILLE TN
+  704 Larry Hicks             52     361 M     36:07 11:39 BARTLETT TN
+  705 Clayton Egli            26     362 M     36:16 11:42 MEMPHIS TN
+  706 Chris Litsas            45     363 M     36:20 11:44 BYRON GA
+  707 Merrell McQueen         12     344 F     36:21 11:44 CORINTH MS
+  708 Anna McCollum           13     345 F     36:21 11:44 CORINTH MS
+  709 Abby Noyes              12     346 F     36:21 11:44 CORINTH MS
+  710 Patty Hammond           28     347 F     36:23 11:45 FLOWOOD MS
+  711 Christy Phillips        28     348 F     36:24 11:45 JACKSON MS
+  712 Beth Buttrey            25     349 F     36:25 11:45 MEMPHIS TN
+  713 Julie Jones             22     350 F     36:26 11:45 BENTON AR
+  714 John Herron             16     364 M     36:27 11:46 DRESDEN TN
+  715 Rhonda Thompson         55     351 F     36:31 11:47 HENDERSON TN
+  716 Michael Landrum         45     365 M     36:38 11:49 MEMPHIS TN
+  717 Paul White              41     366 M     36:39 11:50 MEMPHIS TN
+  718 Gayle Lander            44     352 F     36:40 11:50 SOUTHAVEN MS
+  719 Daniel Bradford         22     367 M     36:41 11:50 MEMPHIS TN
+  720 Hyo Chon                28     353 F     36:41 11:50 CORDOVA TN
+  721 Gretchen Morris         34     354 F     36:42 11:51 METAIRIE LA
+  722 Mike Ferraris           48     368 M     36:43 11:51 MEMPHIS TN
+  723 Abbie Warr               9     355 F     36:47 11:52 MEMPHIS TN
+  724 Mary Wojczynski         33     356 F     36:48 11:53 HOOVER AL
+  725 Henry Paige Jr.         53     369 M     36:50 11:53 HOLLY SPRINGS MS
+  726 Gina Clark              37     357 F     36:52 11:54 MEMPHIS TN
+  727 Luke Scott              31     370 M     36:53 11:54 MAUMELLE AR
+  728 Teresa Gibson           37     358 F     36:55 11:55 SHOREWWOD IL
+  729 Kohl Brandon            11     371 M     36:57 11:56 WEST MONROE LA
+  730 Anthony Bianchi Jr.     29     372 M     36:58 11:56 MEMPHIS TN
+  731 Anna Turner             10     359 F     36:59 11:56 CONWAY AR
+  732 Julie Vaughan           35     360 F     37:00 11:56 WEST MONROE LA
+  733 Rama Chandrashekaran    30     361 F     37:00 11:57 MEMPHIS TN
+  734 Leslie Doros            39     362 F     37:00 11:57 MEMPHIS TN
+  735 Margaret Caffey         43     363 F     37:01 11:57 MEMPHIS TN
+  736 Kade Brandon             9     373 M     37:02 11:57 WEST MONROE LA
+  737 Tim Brandon             39     374 M     37:03 11:57 WEST MONROE LA
+  738 Jennifer Childs         26     364 F     37:03 11:57 RIPLEY MS
+  739 Mark Horrocks           29     375 M     37:06 11:58 MILLINGTON TN
+  740 Leah Turner             37     365 F     37:09 11:59 CONWAY AR
+  741 Laura Logan             27     366 F     37:12 12:00 HORN LAKE MS
+  742 Elizabeth Terry         20     367 F     37:13 12:01 ARLINGTON TN
+  743 Hallie McIlvain         27     368 F     37:13 12:01 MEMPHIS TN
+  744 Madeleine Wassan        11     369 F     37:14 12:01 WEST MONROE LA
+  745 Kenneth Weatherford     24     376 M     37:15 12:01 MEMPHIS TN
+  746 Irene Gatere            27     370 F     37:18 12:02 MEMPHIS TN
+  747 Brenden Case            12     377 M     37:20 12:03 CORDOVA TN
+  748 Carolyn Hadley          24     371 F     37:22 12:04 MARSEILLES IL
+  749 Cindy Kern              43     372 F     37:24 12:04 SANTA FE NM
+  750 Ann Davis               28     373 F     37:24 12:04 NASHVILLE TN
+  751 Elizabeth Jones         40     374 F     37:25 12:05 BARTLETT TN
+  752 Bill Rhodes             41     378 M     37:26 12:05 MEMPHIS TN
+  753 Rhonda Moylan           32     375 F     37:27 12:05 FONTANA KS
+  754 Charlie Rhodes           6     379 M     37:28 12:05 MEMPHIS TN
+  755 Kathy Garrison          50     376 F     37:28 12:06 BARTLETT TN
+  756 Foster Hudsmith          7     380 M     37:28 12:06 MEMPHIS TN
+  757 Vicki Price             51     377 F     37:39 12:09 MONTGOMERY AL
+  758 Jennifer Poelking       28     378 F     37:40 12:09 CLARKSVILLE TN
+  759 Miki Taniguchi          16     379 F     37:40 12:09 CLARKSVILLE TN
+  760 Barry England           45     381 M     37:41 12:10 HENDERSON TN
+  761 Luke Ramsey             13     382 M     37:47 12:12 MEMPHIS TN
+  762 Melissa Brady           27     380 F     37:48 12:12 OLIVE BRANCH MS
+  763 Taylor Mathews          13     383 M     37:48 12:12 COLLIERVILLE TN
+  764 Bill Saig               47     384 M     37:52 12:13 COLLIERVILLE TN
+  765 Rebecca Sims            22     381 F     37:52 12:13 NEWBERN TN
+  766 Terra Burress           22     382 F     37:56 12:15 JACKSON TN
+  767 Lindsay Bean            22     383 F     37:58 12:15 BIRMINGHAM AL
+  768 Erika Bustamante        22     384 F     37:58 12:15 KNOXVILLE TN
+  769 Megan Warr              37     385 F     38:06 12:18 MEMPHIS TN
+  770 James Fisher            31     385 M     38:10 12:19 MEMPHIS TN
+  771 Nechia Whittingham      50     386 F     38:11 12:19 HARRISBURG AR
+  772 Gerry Brunton           45     387 F     38:13 12:20 ROLLA MO
+  773 Melanie Cook            27     388 F     38:13 12:20 MEMPHIS TN
+  774 Holly Judd              34     389 F     38:14 12:20 MEMPHIS TN
+  775 Efrain Negron           15     386 M     38:15 12:21 FRUITLAND PARK FL
+  776 Melanie Whited          21     390 F     38:17 12:21 HENDERSON TN
+  777 Susan Flippen           34     391 F     38:19 12:22 MEMPHIS TN
+  778 Faye Simmons            49     392 F     38:21 12:23 CORDOVA TN
+  779 Mario Simmons           42     387 M     38:21 12:23 CORDOVA TN
+  780 Blake Meeks             13     388 M     38:22 12:23 MEMPHIS TN
+  781 Beverly Sandvos         42     393 F     38:22 12:23 MEMPHIS TN
+  782 Michelle Miles          46     394 F     38:23 12:23 BARTLETT TN
+  783 Ansley Davis            24     395 F     38:25 12:24 SMYRNA TN
+  784 Keri Cash               29     396 F     38:29 12:25 GERMANTOWN TN
+  785 Wesley Parks Sr         99     389 M     38:29 12:25 BARTLETT TN
+  786 Michelle Parks          38     397 F     38:29 12:25 BARTLETT TN
+  787 David Coe               26     390 M     38:30 12:25 SAINT LOUIS MO
+  788 Sean Cash               29     391 M     38:30 12:26 GERMANTOWN TN
+  789 Gina Peeler             38     398 F     38:32 12:26 NASHVILLE TN
+  790 Caroline Anger          42     399 F     38:34 12:27 CORDOVA TN
+  791 Tammy McGarvey          34     400 F     38:37 12:28 CORDOVA TN
+  792 Richard Rudin           60     392 M     38:38 12:28 SPRINGFIELD IL
+  793 Michelle Hawkins        39     401 F     38:39 12:28 SOUTHAVEN MS
+  794 Ben Faught              31     393 M     38:41 12:29 MEMPHIS TN
+  795 Tony Svarczkopf         24     394 M     38:41 12:29 CORDOVA TN
+  796 Maley Smith             18     402 F     38:42 12:29 LAKELAND TN
+  797 Melinda Pritchartt      51     403 F     38:42 12:29 NATCHEZ MS
+  798 Amanda Russell          18     404 F     38:43 12:30 CORDOVA TN
+  799 Todd Groves             37     395 M     38:49 12:32 WEST MONROE LA
+  800 Mary Little             39     405 F     38:52 12:33 BENTON AR
+  801 Amy Many                30     406 F     38:54 12:33 WEST MONROE LA
+  802 Jennifer Smith          23     407 F     38:54 12:33 TRUMANN AR
+  803 Carina Moore            39     408 F     38:55 12:34 OLIVE BRANCH MS
+  804 Terri Kiraly            48     409 F     38:57 12:34 GERMANTOWN TN
+  805 Ellen Davis             46     410 F     38:57 12:34 GEISMAR LA
+  806 Jill Thorsen            37     411 F     38:57 12:34 MEMPHIS TN
+  807 Rhonda Higgason         40     412 F     38:58 12:34 PURVIS MS
+  808 Joyce Bradberry         49     413 F     39:00 12:35 ARLINGTON TN
+  809 Dawn Young              43     414 F     39:06 12:37 GERMANTOWN TN
+  810 Daniel Morris           39     396 M     39:15 12:40 HENDERSON TN
+  811 Matthew Halbrook        33     397 M     39:21 12:42 MEMPHIS TN
+  812 Donna Scott             49     415 F     39:26 12:44 GERMANTOWN TN
+  813 Nicole Whaley           29     416 F     39:27 12:44 MEMPHIS TN
+  814 Kimberly Terrell        46     417 F     39:31 12:45 NESBIT MS
+  815 Jaime Guerriero         38     398 M     39:35 12:47 MONROE LA
+  816 Joseph Ruder            64     399 M     39:41 12:49 COLLIERVILLE TN
+  817 Heather Wilson          21     418 F     39:45 12:50 GERMANTOWN TN
+  818 Kari Nieman             29     419 F     39:47 12:50 MEMPHIS TN
+  819 Jim Krebsbach           63     400 M     39:49 12:51 NORTH MANKATO MN
+  820 Jared Krebsbach         34     401 M     39:50 12:51 MEMPHIS TN
+  821 Bruce Thompson          44     402 M     39:50 12:51 MCCORDSVILLE IN
+  822 Alex Schank             33     403 M     39:51 12:51 MCCORDSVILLE IN
+  823 J.t. Curry              22     404 M     39:51 12:52 HUMBOLDT TN
+  824 David Sadler Ii         32     405 M     39:52 12:52 LIVINGSTON TN
+  825 Kristina Toland         19     420 F     39:53 12:52 WAVERLY TN
+  826 Melody Sadler           31     421 F     39:54 12:52 LIVINGSTON TN
+  827 Lea Ann Norton          39     422 F     39:59 12:54 CONWAY AR
+  828 Stephanie Lerach        28     423 F     40:06 12:56 CORDOVA TN
+  829 Joshua Cooper           11     406 M     40:09 12:57 MEMPHIS TN
+  830 Adam Pani               10     407 M     40:12 12:58 MEMPHIS TN
+  831 Justin Morris           27     408 M     40:13 12:59 CORDOVA TN
+  832 James Cutbirth          48     409 M     40:17 13:00 MONROE LA
+  833 Venkat Pavngada         42     410 M     40:21 13:01 COLLIERVILLE TN
+  834 Chris Braun             35     411 M     40:22 13:02 BOSSIER CITY LA
+  835 Jennifer Harrison       18     424 F     40:26 13:03 CORDOVA TN
+  836 John Boyd               19     412 M     40:29 13:04 HENDERSON TN
+  837 Martha Ford             44     425 F     40:31 13:04 BROWNSVILLE TN
+  838 Angie Berrios           43     426 F     40:32 13:05 BARTLETT TN
+  839 Stephen Skegg           51     413 M     40:35 13:06 DOWNERS GROVE IL
+  840 Emily Gott              23     427 F     40:38 13:07 CORDOVA TN
+  841 Patti Robilio           38     428 F     40:38 13:07 HERNANDO MS
+  842 Hannah Hooten           24     429 F     40:42 13:08 OLIVE BRANCH MS
+  843 Corey Bennett           37     414 M     40:43 13:08 WEST MONROE LA
+  844 Thomas Sater            75     415 M     40:44 13:09 EADS TN
+  845 Alice Parker            51     430 F     40:55 13:12 MEMPHIS TN
+  846 Kimberly Ranson         51     431 F     41:01 13:14 CLAYTON IN
+  847 Alesia Shields          42     432 F     41:01 13:14 GRENADA MS
+  848 Brad Shumpert           30     416 M     41:02 13:15 JONESBORO AR
+  849 Greg Brooks             32     417 M     41:02 13:15 JONESBORO AR
+  850 Christian Oathout       37     418 M     41:04 13:15 LEES SUMMIT MO
+  851 Kristina Thompson       31     433 F     41:05 13:16 CORDOVA TN
+  852 Elizabeth Babcock       32     434 F     41:08 13:17 COLLIERVILLE TN
+  853 Claire McElwain         14     435 F     41:09 13:17 RIPLEY MS
+  854 Brenda Westbrook        37     436 F     41:11 13:18 OLIVE BRANCH MS
+  855 Kathleen Bice           39     437 F     41:15 13:19 HARVEST AL
+  856 Jamie Morris             8     419 M     41:15 13:19 HOOVER AL
+  857 Jessica Phillips        12     438 F     41:32 13:24 CLARKSVILLE TN
+  858 Donald Poelking         31     420 M     41:32 13:24 CLARKSVILLE TN
+  859 Allison Terrell         10     439 F     41:35 13:25 NESBIT MS
+  860 Anthony Stewart         33     421 M     41:38 13:26 MACON GA
+  861 Helen Sater             71     440 F     41:40 13:27 EADS TN
+  862 Amy Fruitt              42     441 F     41:40 13:27 CORDOVA TN
+  863 Michael Terrell         47     422 M     41:43 13:28 NESBIT MS
+  864 Kim Bullard             35     423 M     41:49 13:30 CORDOVA TN
+  865 Audrey Kidwell          20     442 F     41:49 13:30 EVANSVILLE IN
+  866 Jake Blackwelder        19     424 M     41:52 13:31 RUSTON LA
+  867 Mark Blackwelder        47     425 M     41:53 13:31 RUSTON LA
+  868 Zachary Sater           10     426 M     41:59 13:33 OLIVE BRANCH MS
+  869 Ali Daniel              18     443 F     42:00 13:33 GRAPEVINE TX
+  870 Lauren Krpan            20     444 F     42:03 13:34 OXFORD MS
+  871 Chris French            22     427 M     42:08 13:36 HENDERSON TN
+  872 Kelly French            21     445 F     42:08 13:36 HENDERSON TN
+  873 Mary Gonzales           43     446 F     42:08 13:36 REDONDO BEACH CA
+  874 Marta Brown             28     447 F     42:09 13:36 MEMPHIS TN
+  875 Cliff Louy              64     428 M     42:11 13:37 ST. PETERS MO
+  876 Katie Huskey             8     448 F     42:13 13:37 POPLAR BLUFF MO
+  877 D'Anne Bennett          35     449 F     42:14 13:38 WEST MONROE LA
+  878 Gary Gardo              51     429 M     42:19 13:39 MEMPHIS TN
+  879 Rita Noel               44     450 F     42:21 13:40 LA CYGNE KS
+  880 Haley Mattison          21     451 F     42:22 13:40 COLUMBUS MS
+  881 Traci Ewing             27     452 F     42:23 13:41 CORDOVA TN
+  882 Todd Pierce             38     430 M     42:32 13:43 HERNANDO MS
+  883 Delois Ruben            52     453 F     42:32 13:44 WILLISTON TN
+  884 Donna Wilson            47     454 F     42:34 13:44 BLOOMINGTON IL
+  885 Robert McClure          63     431 M     42:35 13:45 WEST MONROE LA
+  886 Brenda O'Connor         53     455 F     42:36 13:45 POPLAR BLUFF MO
+  887 Colton Mann             10     432 M     42:38 13:45 JONESBORO AR
+  888 Becca Mann              12     456 F     42:38 13:45 JONESBORO AR
+  889 Jane Smith              55     457 F     42:40 13:46 GONZALES LA
+  890 Nancy Dunlap            47     458 F     42:43 13:47 MARYLAND HEIGHTS MO
+  891 Lacey Gordon            13     459 F     42:44 13:47 SENATOBIA MS
+  892 Eddie Morgan            53     433 M     42:59 13:52 JONESBORO AR
+  893 Jarrett Mann             7     434 M     42:59 13:52 JONESBORO AR
+  894 Jim Hall                65     435 M     43:02 13:53 BARTLETT TN
+  895 Maryanne Hall           63     460 F     43:02 13:53 BARTLETT TN
+  896 Teah Palmer             28     461 F     43:02 13:53 BARTLETT TN
+  897 Lindsay Thurman         24     462 F     43:09 13:56 LEXINGTON KY
+  898 Sabrina McQuillin       29     463 F     43:13 13:57 WEST MONROE LA
+  899 Robin Atkinson          25     464 F     43:17 13:58 MEMPHIS TN
+  900 Laurie Boller           41     465 F     43:19 13:59 COLLIERVILLE TN
+  901 Gregory Boller          46     436 M     43:19 13:59 COLLIERVILLE TN
+  902 Mellany Evans           40     466 F     43:20 13:59 SOUTHAVEN MS
+  903 Mary Ramsey             49     467 F     43:21 13:59 MEMPHIS TN
+  904 Missy Moss-Samonte      39     468 F     43:29 14:02 HORN LAKE MS
+  905 Haley Putman             9     469 F     43:34 14:03 MEMPHIS TN
+  906 Don Gasch               48     437 M     43:34 14:04 SAINT PETERS MO
+  907 Madison Rhodes          10     470 F     43:36 14:04 MEMPHIS TN
+  908 Anne-Marie Calkins      26     471 F     43:41 14:06 COOKEVILLE TN
+  909 Helen Hallenbeck        36     472 F     43:41 14:06 SPARTA TN
+  910 Brad Tingelhoff         60     438 M     43:41 14:06 KINGSPORT TN
+  911 Rhonda Carson           46     473 F     43:42 14:06 SOUTHAVEN MS
+  912 Hannah Carson            8     474 F     43:43 14:07 SOUTHAVEN MS
+  913 Lisa Putman             40     475 F     43:44 14:07 MEMPHIS TN
+  914 Rick Hagerbaumer        44     439 M     43:50 14:09 COLLIERVILLE TN
+  915 Malcolm Bass            69     440 M     43:53 14:10 MONROE LA
+  916 Bonnie Jones            54     476 F     43:53 14:10 SOUTHAVEN MS
+  917 Staci Yokum             31     477 F     43:57 14:11 MONROE LA
+  918 Aidan Marshall          18     478 F     44:00 14:12 SIKESTON MO
+  919 Tamera Wendling         38     479 F     44:09 14:15 ALEXANDER CITY AL
+  920 Philip Rencher          37     441 M     44:11 14:16 CORDOVA TN
+  921 Brian Kubik             34     442 M     44:14 14:16 SPRINGFIELD MO
+  922 Ashley Kubik            36     480 F     44:14 14:16 SPRINGFIELD MO
+  923 Bobby Spencer           45     443 M     44:15 14:17 MEMPHIS TN
+  924 Summer Spencer          11     481 F     44:15 14:17 MEMPHIS TN
+  925 Brian Mahan             56     444 M     44:16 14:17 BALDWIN IL
+  926 Jennifer McDonald       35     482 F     44:19 14:18 NASHVILLE TN
+  927 Joseph Gendron          64     445 M     44:21 14:19 BATON ROUGE LA
+  928 Jim Odonell             50     446 M     44:21 14:19 MEMPHIS TN
+  929 Valerie Prucnel         30     483 F     44:21 14:19 MEMPHIS TN
+  930 Sharon Hannahan         44     484 F     44:23 14:19 MEMPHIS TN
+  931 Darla McKeown           50     485 F     44:26 14:20 HERRIN IL
+  932 Kari Huffman            37     486 F     44:26 14:20 HERRIN IL
+  933 Monica Jones            55     487 F     44:36 14:24 SOUTHAVEN MS
+  934 Gail Buck               52     488 F     44:42 14:25 BOONEVILLE MS
+  935 Valerie Horst           19     489 F     44:42 14:26 HENDERSON TN
+  936 Lauren Sain             20     490 F     44:42 14:26 BURLISON TN
+  937 Warren Fraser           60     447 M     44:46 14:27 BATON ROUGE LA
+  938 Abigail Morris          11     491 F     44:47 14:27 HOOVER AL
+  939 Stephanie Anderton      21     492 F     44:50 14:28 HENDERSON TN
+  940 Charles Morris           9     448 M     44:51 14:28 VESTAVIA HILLS AL
+  941 Denise Morris           37     493 F     44:56 14:30 VESTAVIA HILLS AL
+  942 Gregory Luvet           38     449 M     45:01 14:32 WEST MEMPHIS AR
+  943 Efrain Negron           43     450 M     45:03 14:32 FRUITLAND PARK FL
+  944 Evelyn Homs             30     494 F     45:04 14:33 MEMPHIS TN
+  945 Eileen Kemp             46     495 F     45:06 14:33 SNELLVILLE GA
+  946 Carrie Bauml            43     496 F     45:06 14:33 SNELLVILLE GA
+  947 Heather Baker           21     497 F     45:18 14:37 HENDERSON TN
+  948 Barbara Pera            58     498 F     45:18 14:37 MEMPHIS TN
+  949 Jane Neumeyer           58     499 F     45:19 14:37 MADISON WI
+  950 Freddi Birdwell         50     500 F     45:20 14:38 KNOXVILLE TN
+  951 Amanda Childers         26     501 F     45:28 14:40 MEMPHIS TN
+  952 Lynn McDonald           56     502 F     45:30 14:41 CORDOVA TN
+  953 Karen Peacock           52     503 F     45:32 14:42 SELMA AL
+  954 Rosalie Griffith        65     504 F     45:32 14:42 INOLA OK
+  955 Michelle Kiefer         43     505 F     45:33 14:42 PLANTERSVILLE AL
+  956 Ty Hardin               34     451 M     45:39 14:44 OLIVE BRANCH MS
+  957 Hooper McGlootch        46     452 M     45:39 14:44 MEMPHIS TN
+  958 Kenneth Harper          44     453 M     45:40 14:44 LA GRANGE TN
+  959 Thelma Brown            39     506 F     45:44 14:45 MEMPHIS TN
+  960 Melissa Craig           28     507 F     45:44 14:46 LAKELAND TN
+  961 Veronicia Wood          33     508 F     45:50 14:47 WEST MONROE LA
+  962 Charlotte Pinnow        59     509 F     45:53 14:48 OLIVE BRANCH MS
+  963 Debra Tingelhoff        50     510 F     46:02 14:51 KINGSPORT TN
+  964 Diane Krebsbach         64     511 F     46:03 14:51 NORTH MANKATO MN
+  965 Linda Johnson           44     512 F     46:09 14:54 MEMPHIS TN
+  966 Eric Sager              49     454 M     46:15 14:55 MEMPHIS TN
+  967 Gregory Cox             47     455 M     46:21 14:58 SENATOBIA MS
+  968 Vickie Schnurbusch      42     513 F     46:22 14:58 OAK RIDGE MO
+  969 Ulla Knoepp             58     514 F     46:23 14:58 ALEXANDRIA LA
+  970 James Knoepp            60     456 M     46:23 14:58 ALEXANDRIA LA
+  971 Jennifer Hicks          31     515 F     46:23 14:58 OLIVE BRANCH MS
+  972 Kristina Miles          27     516 F     46:24 14:58 SOUTHAVEN MS
+  973 Beka Roberts            26     517 F     46:24 14:58 MEMPHIS TN
+  974 Tara Ryan               27     518 F     46:24 14:58 MEMPHIS TN
+  975 Aimee Poirier           36     519 F     46:25 14:59 HOOVER AL
+  976 Judy Poirier            67     520 F     46:26 14:59 HOOVER AL
+  977 Michelle Bernstein      53     521 F     46:36 15:02 MEMPHIS TN
+  978 Celeste Morris          16     522 F     46:37 15:02 MEMPHIS TN
+  979 Caroline Beach          10     523 F     46:40 15:03 JACKSON TN
+  980 Deborah Beach           39     524 F     46:40 15:04 JACKSON TN
+  981 Patricia Morris         42     525 F     46:41 15:04 HOOVER AL
+  982 David Shuford           58     457 M     46:41 15:04 GURLEY AL
+  983 Terri Davis             40     526 F     46:41 15:04 COLUMBUS MS
+  984 Sandra McAnally         58     527 F     46:41 15:04 BROWNSBORO AL
+  985 Ma. Lourdes Ruelas      56     528 F     46:54 15:08 MONTERREY
+  986 Kevin Smith             33     458 M     46:58 15:09 MEMPHIS TN
+  987 Lakeysha Smith          32     529 F     47:00 15:10 MACON GA
+  988 Jennifer Lawson         26     530 F     47:01 15:10 OAKLAND TN
+  989 Carter Harrod            6     459 M     47:02 15:11 CORDOVA TN
+  990 Barbara Jones           56     531 F     47:03 15:11 EADS TN
+  991 Eileen Hallee           63     532 F     47:03 15:11 MANZANITA OR
+  992 Melissa Burris          27     533 F     47:04 15:11 MONROE LA
+  993 Sidney Shackelford      24     534 F     47:06 15:12 BIRMINGHAM AL
+  994 Sandra Zelaya           52     535 F     47:09 15:13 BATON ROUGE LA
+  995 Susan Rindin            50     536 F     47:10 15:13 COLLIERVILLE TN
+  996 Nicolas Quintana         6     460 M     47:21 15:17 CORDOVA TN
+  997 Yuri Quintana           42     461 M     47:21 15:17 CORDOVA TN
+  998 Jeff Gordon             42     462 M     47:28 15:19 SENATOBIA MS
+  999 Donnie Snyder Iii       10     463 M     47:40 15:23 BOWLING GREEN OH
+ 1000 Virginia Swartz         51     537 F     47:43 15:24 CORDOVA TN
+ 1001 James Walls             55     464 M     47:47 15:25 SHREVEPORT LA
+ 1002 Larry Gatlin            71     465 M     47:49 15:26 PARAGOULD AR
+ 1003 Jenny Janisko           29     538 F     47:55 15:28 LITTLE ROCK AR
+ 1004 Emily Paul              35     539 F     47:55 15:28 LITTLE ROCK AR
+ 1005 Shawn Conley            32     466 M     48:01 15:30 CHICAGO IL
+ 1006 Abbey Gordon            10     540 F     48:04 15:31 SENATOBIA MS
+ 1007 Jo Sowell               55     541 F     48:05 15:31 SENATOBIA MS
+ 1008 Claire Sowell           27     542 F     48:05 15:31 SENATOBIA MS
+ 1009 India Gregg             34     543 F     48:06 15:31 MONROE LA
+ 1010 Amie Smith              29     544 F     48:06 15:31 MONROE LA
+ 1011 Faith Porter            11     545 F     48:07 15:32 BAUXITE AR
+ 1012 Sarah Porter            15     546 F     48:09 15:32 BERRYVILLE AR
+ 1013 Shannon Stull           33     547 F     48:41 15:43 PADUCAH KY
+ 1014 Steve Sherling          43     467 M     48:41 15:43 PADUCAH KY
+ 1015 Marion Cone             56     548 F     48:43 15:43 JACKSON TN
+ 1016 James Branson           76     468 M     49:00 15:49 CORODVA TN
+ 1017 Corey Smith             22     549 F     49:02 15:49 MARTIN TN
+ 1018 Cheryl Smith            20     550 F     49:02 15:49 DICKSON TN
+ 1019 Richard Morris          60     469 M     49:04 15:50 COLLIERVILLE TN
+ 1020 Melissa Smith           53     551 F     49:07 15:51 BASTROP LA
+ 1021 Jeri Holcomb            41     552 F     49:08 15:51 CAPE GIRARDEAU MO
+ 1022 Judi York               58     553 F     49:08 15:51 BROKEN ARROW OK
+ 1023 Susan Carpenter         55     554 F     49:09 15:51 BATON ROUGE LA
+ 1024 Sarah Green             55     555 F     49:09 15:52 BASTROP LA
+ 1025 Martha Woodfin          54     556 F     49:09 15:52 ROCK HILL SC
+ 1026 Hope Hudson             10     557 F     49:10 15:52 MEMPHIS TN
+ 1027 Lydia Brewer            10     558 F     49:10 15:52 MEMPHIS TN
+ 1028 Sandra Caldwell         49     559 F     49:11 15:52 MOOREVILLE MS
+ 1029 Kristal Brown           29     560 F     49:13 15:53 CORDOVA TN
+ 1030 Morgan Brown             8     561 F     49:13 15:53 CORDOVA TN
+ 1031 Shawna Ratliff          24     562 F     49:13 15:53 ALTUS AR
+ 1032 Elizabeth Copic         27     563 F     49:15 15:54 SHERWOOD AR
+ 1033 Shari Wilson            47     564 F     49:17 15:54 GERMANTOWN TN
+ 1034 Terry Wilson            49     470 M     49:17 15:54 GERMANTOWN TN
+ 1035 Faye Gomez              58     565 F     49:20 15:55 GRETNA LA
+ 1036 Debbie Miller           50     566 F     49:23 15:56 KNOXVILLE AR
+ 1037 Cindy Esala             53     567 F     49:27 15:57 COLLIERVILLE TN
+ 1038 Beverly Young           68     568 F     49:29 15:58 CENTREVILLE MD
+ 1039 Whitney Underwood       18     569 F     49:29 15:58 DORAVILLE GA
+ 1040 Casey Frizzell          18     570 F     49:29 15:58 STUART FL
+ 1041 Tammie Litsas           43     571 F     49:33 15:59 BYRON GA
+ 1042 Donna Morris            59     572 F     49:35 16:00 COLLIERVILLE TN
+ 1043 Korrie Stanton          20     573 F     49:43 16:03 BLUE MOUNTAIN MS
+ 1044 Bill Henderson          59     471 M     49:43 16:03 STARKVILLE MS
+ 1045 Mary Clark              49     574 F     49:44 16:03 WEST MONROE LA
+ 1046 Shelly Lowrey           30     575 F     49:45 16:03 STERLINGTON LA
+ 1047 Kacy Acree              33     576 F     49:46 16:04 OLIVE BRANCH MS
+ 1048 Erin Anderson           21     577 F     49:46 16:04 TUPELO MS
+ 1049 Nicondra Norwood        29     578 F     49:46 16:04 MEMPHIS TN
+ 1050 Jane Peoples            55     579 F     49:48 16:04 KNOXVILLE TN
+ 1051 Carol Peters            21     580 F     49:51 16:05 MYRTLE MS
+ 1052 Lauryn Jenkins          21     581 F     49:55 16:06 BLUE MOUNTAIN MS
+ 1053 Eudelia Tabulog         34     582 F     49:57 16:07 MEMPHIS TN
+ 1054 Brittney Cloyd          19     583 F     50:03 16:09 BLUE MOUNTAIN MS
+ 1055 Jo Kaufman              59     584 F     50:07 16:10 MONROE LA
+ 1056 Robert Wingo            11     472 M     50:08 16:11 BARTLETT TN
+ 1057 Suzette Wingwhittaker   41     585 F     50:08 16:11 BARTLETT TN
+ 1058 Christina Harris        13     586 F     50:24 16:16 POTTS CAMP MS
+ 1059 Lyric Brock              8     473 M     50:25 16:16 POTTS CAMP MS
+ 1060 Elizabeth Brock          5     587 F     50:25 16:16 POTTS CAMP MS
+ 1061 Resha Brock             28     588 F     50:25 16:16 POTTS CAMP MS
+ 1062 Crystal Harris          13     589 F     50:25 16:16 POTTS CAMP MS
+ 1063 Summer Harris           24     590 F     50:26 16:17 POTTS CAMP MS
+ 1064 Tonya Runkel            21     591 F     50:27 16:17 MUNCIE IN
+ 1065 Rita Gaw                53     592 F     50:27 16:17 CARMEL IN
+ 1066 Alison Rouse            29     593 F     50:32 16:18 SOUTHAVEN MS
+ 1067 Kimberly Kennedy        24     594 F     50:33 16:19 SOUTHAVEN MS
+ 1068 Laura Dailey            45     595 F     50:47 16:23 COLLIERVILLE TN
+ 1069 Dorothy Coley           57     596 F     50:47 16:23 COLLIERVILLE TN
+ 1070 Sandra McClure          61     597 F     50:48 16:24 WEST MONROE LA
+ 1071 Cindy Jones             45     598 F     50:49 16:24 ARLINGTON TN
+ 1072 Matthew Johnson         25     474 M     50:54 16:26 SOMERVILLE TN
+ 1073 Brian Smith             28     475 M     50:55 16:26 GERMANTOWN TN
+ 1074 Ashley Johnson           5     599 F     50:55 16:26 OMAHA NE
+ 1075 Kaden Johnson            8     476 M     50:56 16:26 OMAHA NE
+ 1076 Pat Johnson             99     600 F     50:57 16:27 OMAHA NE
+ 1077 Judie Bell              57     601 F     50:57 16:27 MANGHAM LA
+ 1078 Kaye Sharbono           49     602 F     50:58 16:27 MANGHAM LA
+ 1079 Lenan Thomas            51     603 F     51:00 16:28 CENTERVILLE TN
+ 1080 Mary Choate             50     604 F     51:01 16:28 CENTERVILLE TN
+ 1081 Nfn Krishnamani         34     605 F     51:01 16:28 MEMPHIS TN
+ 1082 Easwara Rajadurai       41     477 M     51:01 16:28 MEMPHIS TN
+ 1083 Carol Spencer           57     606 F     51:05 16:29 MEMPHIS TN
+ 1084 Kathy Carpenter         54     607 F     51:15 16:32 BARTLETT TN
+ 1085 Jennifer Gallo          38     608 F     51:20 16:34 URBANA IL
+ 1086 Brenda Pugh             53     609 F     51:21 16:34 HARRISBURG AR
+ 1087 Wilma Rice              44     610 F     51:21 16:34 JONESBORO AR
+ 1088 Ariel Cox               24     611 F     51:59 16:47 SENATOBIA MS
+ 1089 Calynn Oathout          33     612 F     52:02 16:47 LEES SUMMIT MO
+ 1090 Maggie Oathout          12     613 F     52:03 16:48 LEES SUMMIT MO
+ 1091 Ashley Kirk             32     614 F     52:06 16:49 OLIVE BRANCH MS
+ 1092 Karen Harris            24     615 F     52:06 16:49 MEMPHIS TN
+ 1093 Alex Fancher            17     616 F     52:07 16:49 SOUTHAVEN MS
+ 1094 Chris Kirk              33     478 M     52:08 16:49 OLIVE BRANCH MS
+ 1095 Hayley Levy             11     617 F     52:08 16:49 MEMPHIS TN
+ 1096 Daniel Looney           10     479 M     52:09 16:50 MEMPHIS TN
+ 1097 Mandarin Wilcox          9     618 F     52:13 16:51 GERMANTOWN TN
+ 1098 Lisa Wilcox             40     619 F     52:13 16:51 GERMANTOWN TN
+ 1099 Jeff Kortz              40     480 M     52:14 16:51 SOUTHAVEN MS
+ 1100 Jennifer Kortz          22     620 F     52:14 16:51 SOUTHAVEN MS
+ 1101 MacKenzie Kortz         14     621 F     52:17 16:52 SOUTHAVEN MS
+ 1102 Elizabeth Cook          52     622 F     52:19 16:53 ALBEMARLE NC
+ 1103 Elizabeth Sater         31     623 F     52:43 17:01 OLIVE BRANCH MS
+ 1104 Jennifer Posey          28     624 F     52:50 17:03 MURFREESBORO TN
+ 1105 Kaylan McPhail          18     625 F     52:51 17:03 SOUTHAVEN MS
+ 1106 Ashley Frain            26     626 F     52:52 17:03 HERNANDO MS
+ 1107 Ann Becker              75     627 F     52:52 17:04 HOT SPRINGS AR
+ 1108 Dianna Hardy            38     628 F     52:53 17:04 OLIVE BRANCH MS
+ 1109 Kenara Edwards          24     629 F     52:53 17:04 MEMPHIS TN
+ 1110 Laura Sutton            23     630 F     52:53 17:04 MEMPHIS TN
+ 1111 Debra Taylor            49     631 F     52:55 17:04 MEMPHIS TN
+ 1112 Lauren Johnson          24     632 F     52:58 17:06 SOMERVILLE TN
+ 1113 Elizabeth McKnight      54     633 F     52:58 17:06 SOMERVILLE TN
+ 1114 Reka Holder             80     634 F     52:59 17:06 WOOD RIVER IL
+ 1115 Jenni Russ              33     635 F     53:00 17:06 INDIANAPOLIS IN
+ 1116 Carol Brewer            40     636 F     53:00 17:06 ZIONSVILLE IN
+ 1117 Eric Harris             34     481 M     53:03 17:07 MEMPHIS TN
+ 1118 Rorie Harris            29     637 F     53:03 17:07 MEMPHIS TN
+ 1119 Melanie Luckett         33     638 F     53:04 17:08 OLIVE BRANCH MS
+ 1120 Josh Luckett            13     482 M     53:04 17:08 OLIVE BRANCH MS
+ 1121 Faith Hawkins           11     639 F     53:05 17:08 SOUTHAVEN MS
+ 1122 Candace Clark           37     640 F     53:08 17:09 CORDOVA TN
+ 1123 Shelby Clark            15     641 F     53:09 17:09 CORDOVA TN
+ 1124 Jennifer Clark           9     642 F     53:10 17:09 CORDOVA TN
+ 1125 Terry Marchbanks        60     643 F     53:10 17:09 WEST MONROE LA
+ 1126 Maria Cortes            33     644 F     53:11 17:10 WYNNE AR
+ 1127 Keely Cox                8     645 F     53:15 17:11 BYHALIA MS
+ 1128 Chris Cox               46     483 M     53:15 17:11 BYHALIA MS
+ 1129 Lisa Baker              44     646 F     53:15 17:11 CORDOVA TN
+ 1130 Trina Cox               37     647 F     53:16 17:11 BYHALIA MS
+ 1131 Gabriella Arellano      31     648 F     53:16 17:11 COLLIERVILLE TN
+ 1132 Chad Duncan             30     484 M     53:16 17:11 JACKSON TN
+ 1133 Teresa Wontham          42     649 F     53:20 17:13 MEMPHIS TN
+ 1134 Kenny Morris            46     485 M     53:22 17:13 RICHMOND VA
+ 1135 Theresa Morris          48     650 F     53:22 17:13 RICHMOND VA
+ 1136 Nancy Harris            55     651 F     53:24 17:14 MEMPHIS TN
+ 1137 Jimmy Padgett           33     486 M     53:30 17:16 MEMPHIS TN
+ 1138 Marco Casrillero        50     487 M     53:30 17:16 BARTLETT TN
+ 1139 Kati Cunningham         12     652 F     53:35 17:17 OLIVE BRANCH MS
+ 1140 Sarah Tillman            7     653 F     53:37 17:18 MEMPHIS TN
+ 1141 Tammy Skinner           34     654 F     53:40 17:19 WEST MONROE LA
+ 1142 Thurman Mobley          70     488 M     53:46 17:21 UNION CITY TN
+ 1143 Madelyn Johnson         58     655 F     53:54 17:23 NASHVILLE TN
+ 1144 Anne Ramsey             58     656 F     53:54 17:23 MT JULIET TN
+ 1145 Tracy Clark             36     657 F     54:07 17:28 MARION AR
+ 1146 Tamara Jones            30     658 F     54:08 17:28 MEMPHIS TN
+ 1147 Melony Schratz          32     659 F     54:22 17:33 BENTON AR
+ 1148 Kathleen Williams       52     660 F     54:23 17:33 BEAVERTON OR
+ 1149 Kimberly Scobey         27     661 F     54:27 17:34 SEVERN MD
+ 1150 Misty Melton            26     662 F     54:27 17:34 MEMPHIS TN
+ 1151 Megan Tillman            9     663 F     54:28 17:35 MEMPHIS TN
+ 1152 Jay Tillman             40     489 M     54:29 17:35 MEMPHIS TN
+ 1153 Sara Bowling            65     664 F     54:30 17:35 POPLAR BLUFF MO
+ 1154 Debbie Harrison         47     665 F     54:33 17:36 CORDOVA TN
+ 1155 Cindy Serrato           34     666 F     54:33 17:36 HERNANDO MS
+ 1156 Jodi Robledo            30     667 F     54:33 17:36 HERNANDO MS
+ 1157 Cathy Flake             42     668 F     54:36 17:37 PAOAL KS
+ 1158 Rita Moylan             65     669 F     54:41 17:39 LACYGNE KS
+ 1159 Angel Rafert            35     670 F     54:55 17:43 FORTVILLE IN
+ 1160 Geralyn Thompson        48     671 F     54:55 17:43 MCCORDSVILLE IN
+ 1161 Brittany Gordon         21     672 F     55:04 17:46 CLARKSVILLE TN
+ 1162 Sarah Gutknecht         21     673 F     55:05 17:46 GURLEY AK
+ 1163 Adrienne Gutknecht      21     674 F     55:05 17:46 AUBURN AL
+ 1164 Wess Magee              12     490 M     55:07 17:47 WEST MONROE LA
+ 1165 Shannon Paine           34     675 F     55:08 17:47 MONROE LA
+ 1166 Terri Fields            43     676 F     55:10 17:48 HEFLIN AL
+ 1167 Rickie Brown            58     677 F     55:18 17:51 EL DORADO HILLS LA
+ 1168 Ann Thew                69     678 F     55:19 17:51 CIBOLO TX
+ 1169 Crystal Payne           31     679 F     55:22 17:52 BOSSIER CITY LA
+ 1170 Aletha Bolt             43     680 F     55:22 17:52 YUKON OK
+ 1171 Sabrina Britt           45     681 F     55:31 17:55 HERNANDO MS
+ 1172 Theresa McPhail         47     682 F     55:31 17:55 SOUTHAVEN MS
+ 1173 Paige Price             40     683 F     55:31 17:55 HERNANDO MS
+ 1174 Lee Parks               38     491 M     55:36 17:56 HORN LAKE MS
+ 1175 Marcela Fernandez Mart  41     684 F     55:37 17:57 MONTERREY N.L.
+ 1176 Lorraine Mandziuk       59     685 F     55:38 17:57 THUNDER BAY ON
+ 1177 Renae Morgan            45     686 F     55:38 17:57 DOUGLASVILLE GA
+ 1178 Bill Powers             69     492 M     55:41 17:58 MEMPHIS TN
+ 1179 Ann McAllise            49     687 F     55:43 17:59 JACKSON TN
+ 1180 Gregg McAllise          50     493 M     55:43 17:59 JACKSON TN
+ 1181 Ashley Kazar            21     688 F     55:44 17:59 NORTH CANTON OH
+ 1182 Sharon Fox              63     689 F     55:50 18:01 PRATTVILLE AL
+ 1183 Josh Guess              27     494 M     56:02 18:05 CAMDEN AR
+ 1184 Gwen Robinson           29     690 F     56:04 18:05 MONTICELLO AR
+ 1185 Virginia Jones          11     691 F     56:05 18:06 BARTLETT TN
+ 1186 Abigail Jones           14     692 F     56:06 18:06 BARTLETT TN
+ 1187 Susan Heatherly         19     693 F     56:07 18:06 MEMPHIS TN
+ 1188 Robin Heatherly         25     694 F     56:07 18:07 MEMPHIS TN
+ 1189 Angela Dunlap           33     695 F     56:08 18:07 CORDOVA TN
+ 1190 Betty Chiu              33     696 F     56:08 18:07 CORDOVA TN
+ 1191 Heather Burford         30     697 F     56:12 18:08 MEMPHIS TN
+ 1192 Brenda Burford          58     698 F     56:14 18:09 FORDYCE AR
+ 1193 Marvin Burford          58     495 M     56:15 18:09 FORDYCE AR
+ 1194 Mark Robinson           31     496 M     56:15 18:09 MONTICELLO AR
+ 1195 Dru Burford             31     497 M     56:15 18:09 MEMPHIS TN
+ 1196 Angela Powell           46     699 F     56:17 18:10 MEMPHIS TN
+ 1197 Howard Botto            69     498 M     56:23 18:12 MEMPHIS TN
+ 1198 Mike Harty              69     499 M     56:23 18:12 MEMPHIS TN
+ 1199 Amanda Newman           16     700 F     56:26 18:13 CORDOVA TN
+ 1200 Alexander Breznenik      6     500 M     56:27 18:13 MANCHESTER MO
+ 1201 Deanna Breznenik        34     701 F     56:27 18:13 MANCHESTER MO
+ 1202 Margaret Morris         46     702 F     56:28 18:13 BARTLETT TN
+ 1203 Laurie Noel             38     703 F     56:29 18:14 HORN LAKE MS
+ 1204 Virginia Blevins        61     704 F     56:29 18:14 SOUTHAVEN MS
+ 1205 Pat Taylor              59     705 F     56:33 18:15 GERMANTOWN TN
+ 1206 Bob Taylor              58     501 M     56:36 18:16 GERMANTOWN TN
+ 1207 Lynn Hughes             29     706 F     56:56 18:22 TERRE HAUTE IN
+ 1208 Jennifer Griffith       27     707 F     56:58 18:23 TERRE HAUTE IN
+ 1209 John Cone               57     502 M     57:01 18:24 JACKSON TN
+ 1210 Diane Cressman          52     708 F     57:02 18:24 COLLIERVILLE TN
+ 1211 Tangie Anderson         29     709 F     57:11 18:27 MEMPHIS TN
+ 1212 Rob Robinson            35     503 M     57:11 18:27 MEMPHIS TN
+ 1213 Joan Breznenik          64     710 F     57:27 18:32 MEDWAY OH
+ 1214 Mary McKenzie           47     711 F     57:30 18:33 HENSLEY AR
+ 1215 Mary Graves             64     712 F     57:30 18:33 JONESBORO AR
+ 1216 Sara Garrett            42     713 F     57:37 18:36 SOUTHAVEN MS
+ 1217 George Breznenik        65     504 M     57:39 18:36 MEDWAY OH
+ 1218 Robin Burroughs         43     714 F     57:42 18:37 SENATOBIA MS
+ 1219 Celestine Hall           8     715 F     57:55 18:41 CORDOVA TN
+ 1220 Oscar Hall Iii          40     505 M     57:58 18:42 CORDOVA TN
+ 1221 Danielle Hall           10     716 F     58:00 18:43 CORDOVA TN
+ 1222 Vicky Powell            37     717 F     58:02 18:44 MEMPHIS TN
+ 1223 Cathy Gutknecht         50     718 F     58:03 18:44 GURLEY AL
+ 1224 Jeff Gordon             44     506 M     58:04 18:44 MADISON AL
+ 1225 Walter McKnatt          56     507 M     58:04 18:44 SOUTHAVEN MS
+ 1226 Melody Bailey           30     719 F     58:05 18:44 SOUTHAVEN MS
+ 1227 Christy Paganoni        26     720 F     58:05 18:44 ARLINGTON TN
+ 1228 Leslie Echele           67     508 M     58:19 18:49 ST. CHARLES MO
+ 1229 Barbara Barrios         71     721 F     58:19 18:49 BALLWIN MO
+ 1230 Karen Black             31     722 F     58:27 18:52 CLARKSVILLE TN
+ 1231 Johnny Bruce            21     509 M     58:28 18:52 HENDERSON TN
+ 1232 Candice Wall            36     723 F     58:28 18:52 CUNNINGHAM TN
+ 1233 Kellie Rodenhaber       36     724 F     58:28 18:52 PALMYRA TN
+ 1234 Maroot Fox              43     725 F     58:30 18:53 ALEXANDER CITY AL
+ 1235 Frank Bradford          51     510 M     58:30 18:53 HENDERSON TN
+ 1236 Laura Straneg           34     726 F     58:31 18:53 ALEXANDER CITY AL
+ 1237 Georgette Williamson    38     727 F     58:41 18:56 CORDOVA TN
+ 1238 Lois Owens              53     728 F     58:42 18:56 CORDOVA TN
+ 1239 Jeannie Fuller          54     729 F     58:46 18:58 STAMPS AR
+ 1240 Andrew Magre            13     511 M     58:46 18:58 FESTUS MO
+ 1241 Meganne Marshall        17     730 F     58:48 18:58 ARLINGTON TN
+ 1242 Frank Scroggins         57     512 M     58:49 18:59 STAMPS AR
+ 1243 Dennis Fuller           57     513 M     58:49 18:59 STAMPS AR
+ 1244 Brenda Scroggins        55     731 F     58:51 18:59 STAMPS AR
+ 1245 Sara Roose              37     732 F     58:52 19:00 ALPHARETTA GA
+ 1246 Susan Perdomo           36     733 F     58:52 19:00 TAMPA FL
+ 1247 Susan Safarian          51     734 F     58:53 19:00 RIVERVIEW FL
+ 1248 Wilbur West             62     514 M     58:55 19:01 GREENEVILLE TN
+ 1249 Brenda West             56     735 F     58:58 19:02 GREENEVILLE TN
+ 1250 Meris Marshall          48     736 F     59:07 19:05 ARLINGTON TN
+ 1251 Norma Burkert           58     737 F     59:10 19:05 INDIANAPOLIS IN
+ 1252 Jan Rahn                59     738 F     59:10 19:06 GREENWOOD IN
+ 1253 Austin Nicely           10     515 M     59:23 19:10 OOLTEWAH TN
+ 1254 Krista Nicely           37     739 F     59:24 19:10 MURFREESBORO TN
+ 1255 Patricia Boyd           65     740 F     59:25 19:10 MCMINNVILLE TN
+ 1256 Lisa Skelton            42     741 F     59:29 19:12 FAYETTEVILLE AR
+ 1257 Karen Stowe-Rains       46     742 F     59:29 19:12 FAYETTEVILLE AR
+ 1258 Curtis Bass             33     516 M     59:31 19:12 PROCTOR OK
+ 1259 Trish Hampton           42     743 F     59:31 19:12 PRAIRIE GROVE AR
+ 1260 Wendy Williams          47     744 F     59:37 19:14 CHANDLER AZ
+ 1261 Barbara Dubois          59     745 F     59:38 19:14 JOHNSON CITY TN
+ 1262 Taryn Harmon            21     746 F     59:46 19:17 MUNCIE IN
+ 1263 Monica Segar            21     747 F     59:47 19:17 MUNCIE IN
+ 1264 Christine Rich          23     748 F     59:47 19:17 MUNCIE IN
+ 1265 Naundi Edwards          10     749 F   1:00:20 19:28 MEMPHIS TN
+ 1266 Sandy Hosack            59     750 F   1:00:27 19:30 O'FALLON MO
+ 1267 Jamie Atchison          38     751 F   1:00:30 19:31 NORMAL IL
+ 1268 Mari Scotch             53     752 F   1:00:31 19:32 MOUNDS VIEW MN
+ 1269 Vickie King             49     753 F   1:00:35 19:33 FAIRFIELD IL
+ 1270 Rosalee Echele          65     754 F   1:00:45 19:36 ST. CHARLES MO
+ 1271 Stacey Moore            42     755 F   1:00:53 19:39 ATOKA TN
+ 1272 Caitlin Marshall        20     756 F   1:00:54 19:39 ARLINGTON TN
+ 1273 Leslie Babb             43     757 F   1:01:01 19:41 MEMPHIS TN
+ 1274 Marcia Downing          53     758 F   1:01:01 19:41 MEMPHIS TN
+ 1275 John Martin             74     517 M   1:01:20 19:48 MEMPHIS TN
+ 1276 Britniann Kaufman        8     759 F   1:01:39 19:54 WEST MONROE LA
+ 1277 Lori Kaufman            37     760 F   1:01:39 19:54 WEST MONROE LA
+ 1278 Marilyn Davis           36     761 F   1:01:51 19:57 LITTLE ROCK AR
+ 1279 Ed Klamfoth             48     518 M   1:01:51 19:57 R
+ 1280 Terry King              45     762 F   1:01:51 19:58 OXFORD MS
+ 1281 Kerry King              45     519 M   1:01:52 19:58 OXFORD MS
+ 1282 Peggy Meier             74     763 F   1:02:01 20:01 INDIANOPOLIS IN
+ 1283 Henry Meier             77     520 M   1:02:01 20:01 INDIANOPOLIS IN
+ 1284 Tammy Pinnow            34     764 F   1:02:04 20:02 HERNANDO MS
+ 1285 Tammy List              43     765 F   1:02:06 20:02 MASON CITY IL
+ 1286 Janice Bealor           68     766 F   1:02:06 20:02 BLOOMINGTON IL
+ 1287 MacY Morgan             10     767 F   1:03:38 20:32 OAKLAND TN
+ 1288 Sophie Morgan            9     768 F   1:03:40 20:33 OAKLAND TN
+ 1289 Craig Morgan            44     521 M   1:03:44 20:34 EADS TN
+ 1290 Ruby Morgan              5     769 F   1:03:45 20:34 EADS TN
+ 1291 Sara Smalley            17     770 F   1:03:53 20:37 MEMPHIS TN
+ 1292 Denese Smalley          52     771 F   1:03:53 20:37 MEMPHIS TN
+ 1293 Tamora Pinkston         32     772 F   1:03:58 20:38 MEMPHIS TN
+ 1294 Bob Becker              78     522 M   1:03:59 20:39 HOT SPRINGS AR
+ 1295 Marcia Lowe             46     773 F   1:04:12 20:43 SOUTHAVEN MS
+ 1296 Patricia Hollister      56     774 F   1:04:47 20:54 HERMITAGE TN
+ 1297 Ben Herron              12     523 M   1:04:54 20:57 DRESDEN TN
+ 1298 Bart Finley             37     524 M   1:04:58 20:58 WEST MONROE LA
+ 1299 Amy Kaiser              29     775 F   1:04:58 20:58 MARION AR
+ 1300 Beverly Williams        55     776 F   1:05:01 20:59 MEMPHIS TN
+ 1301 John Hollister          61     525 M   1:05:02 20:59 HERMITAGE TN
+ 1302 Jessica Gress           15     777 F   1:05:08 21:01 WEST CHESTER OH
+ 1303 Anna Gress               4     778 F   1:05:10 21:02 WEST CHESTER OH
+ 1304 Beth Gress              40     779 F   1:05:11 21:02 WEST CHESTER OH
+ 1305 Fred Brinkman           67     526 M   1:05:12 21:02 DAYTON OH
+ 1306 David Gress             41     527 M   1:05:13 21:03 WEST CHESTER OH
+ 1307 David Brinkman          42     528 M   1:05:14 21:03 COVINGTON KY
+ 1308 Agnes Brinkman          66     780 F   1:05:14 21:03 DAYTON OH
+ 1309 Deborah Hughes          52     781 F   1:05:36 21:10 TULSA OK
+ 1310 Jean Joyce              70     782 F   1:05:36 21:10 HAZELWOOD MO
+ 1311 Virginia Clagett        68     783 F   1:05:38 21:11 PHOENIX AZ
+ 1312 Nancy Memdes            35     784 F   1:05:52 21:15 OLIVE BRANCH MS
+ 1313 Susan Edwards           52     785 F   1:05:52 21:15 COLLIERVILLE TN
+ 1314 Lou Eckhardt            73     786 F   1:06:02 21:18 ST. CHARLES MO
+ 1315 Mary Alice Vinson       63     787 F   1:06:02 21:18 LAKE ST. LOUIS MO
+ 1316 Yaiha Duarte            26     788 F   1:06:05 21:19 MEMPHIS TN
+ 1317 Erick Freeman           44     529 M   1:06:05 21:19 MEMPHIS TN
+ 1318 Gregory Park            39     530 M   1:06:18 21:24 OXFORD MS
+ 1319 Allen Davis             41     531 M   1:06:19 21:24 LITTLE ROCK AR
+ 1320 Jeanette Jungkans       64     789 F   1:06:45 21:32 MILLINGTON TN
+ 1321 Margie Dixon            56     790 F   1:06:47 21:33 ATLANTA GA
+ 1322 Matthew Edwards         26     532 M   1:06:49 21:34 COLLIERVILLE TN
+ 1323 Cori Scroggins          28     791 F   1:06:49 21:34 MONROE LA
+ 1324 Deneen Wisecarver       41     792 F   1:06:49 21:34 STERLINGTON LA
+ 1325 Debbie Hogue            49     793 F   1:06:51 21:34 COLLIERVILLE TN
+ 1326 Ashley Hogue            25     794 F   1:06:51 21:34 COLLIERVILLE TN
+ 1327 Mike Singleton          34     533 M   1:06:53 21:35 MEMPHIS TN
+ 1328 Jenny Pinkowski         61     795 F   1:07:21 21:44 MEMPHIS TN
+ 1329 Dotsherita Birdsong     29     796 F   1:07:25 21:45 CORDOVA TN
+ 1330 Judi King               62     797 F   1:08:26 22:05 LIBERTY TOWNSHIP OH
+ 1331 Angela Edmonds          45     798 F   1:08:28 22:05 LIZELLA GA
+ 1332 Sharon McGilvary        44     799 F   1:08:30 22:06 VALRICO FL
+ 1333 Marty Neuman            65     800 F   1:08:33 22:07 ST. CHARLES MO
+ 1334 Linda Buxton            59     801 F   1:08:35 22:08 ST. LOUIS MO
+ 1335 Tenesa Dean             32     802 F   1:09:39 22:29 BYHALIA MS
+ 1336 Lillie Matthews         28     803 F   1:09:39 22:29 MEMPHIS TN
+ 1337 Danielle Wells          31     804 F   1:09:39 22:29 MEMPHIS TN
+ 1338 Melanie Morgan          41     805 F   1:10:04 22:36 OAKLAND TN
+ 1339 Bronwyn Morgan          36     806 F   1:10:04 22:37 EADS TN
+ 1340 Emmie Morgan             3     807 F   1:10:04 22:37 EADS TN
+ 1341 Kathy Miller            56     808 F   1:10:07 22:37 CLEVELAND MO
+ 1342 Timothy Rogers          29     534 M   1:10:08 22:38 BELTON MO
+ 1343 Karen Allen             53     809 F   1:10:12 22:39 CLEVELAND MO
+ 1344 Tracy Hooper            40     810 F   1:10:53 22:52 HERNANDO MS
+ 1345 Carla Proctor           63     811 F   1:10:54 22:53 OLIVE BRANCH MS
+ 1346 Kenneth Vinson          45     535 M   1:11:25 23:03 MEMPHIS TN
+ 1347 Piper Finley             5     812 F   1:15:06 24:14 WEST MONROE LA
