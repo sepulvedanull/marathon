@@ -23,6 +23,7 @@ Deployments to https://memphis-marathon.herokuapp.com/ happen automatically when
 
 ## Scraping Results Data
 Please make sure you have properly installed Python 3 and pip, follow [this guide](https://docs.python-guide.org/starting/installation/) if you haven't. Once Python 
+[Running Python3 on OSX](https://wsvincent.com/install-python3-mac/)
 https://pipenv.readthedocs.io/en/latest/install/
 
 `cd data-scraper/`
@@ -60,3 +61,6 @@ parse_2017_results()
 ### Notes
 run `python scraper.py` to execute the scraper one time through.
 This will generate separate JSON files for each year.
+
+
+install Python's virtual environment `python3 -m virtualenv env`

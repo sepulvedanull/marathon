@@ -7,9 +7,6 @@ import registerServiceWorker from './registerServiceWorker'
 
 ReactDOM.render(
     <div className="app-container">
-      <header>
-
-      </header>
 
       <App/>
 

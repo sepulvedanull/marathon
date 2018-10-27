@@ -22,25 +22,20 @@ class ResultsTable extends Component {
         return (
             <tr>
               <td>{runner.Place}</td>
-              <td>{runner.Race}</td>
-              <td>{runner.Name}</td>
-              <td>{/*runner.Unnamed: 3 */}</td>
+              <td>{`${runner.Name} ${runner["Unnamed: 3"]}`}</td>
+              <td>{runner["Bib#"]}</td>
               <td> {runner.Age}</td>
-              <td> {/*runner.Sex_plc*/}</td>
+              <td> {runner["Sex\/plc"]}</td>
               <td>{runner.Sex}</td>
               <td> {runner.Rank}</td>
-              <td> {/*runner.10k*/}</td>
-              <td> {/*runner.Rank.1*/}</td>
+              <td> {runner["10k"]}</td>
               <td>{runner.Halfway}</td>
-              <td>{/*runner.Rank.2*/}</td>
-              <td>{/*runner.30k */}</td>
+              <td>{runner["30k"]}</td>
               <td>{runner.Time}</td>
               <td>{runner.Pace}</td>
               <td>{runner.City}</td>
               <td>{runner.State}</td>
-              <td>{/*runner.Clock Time*/}</td>
-              <td>{/*runner.Bib#*/}</td>
-
+              <td>{runner["Clock Time"]}</td>
             </tr>
         )
       })
@@ -58,24 +53,20 @@ class ResultsTable extends Component {
             <tbody>
             <tr>
               <th>Place</th>
-              <th>Race</th>
               <th>Name</th>
-              <th></th>
+              <th>Bib #</th>
               <th>Age</th>
               <th>Sex/plc</th>
               <th>Sex</th>
               <th>Rank</th>
               <th>10k</th>
-              <th>Rank</th>
               <th>Halfway</th>
-              <th>Rank</th>
               <th>30k</th>
               <th>Time</th>
               <th>Pace</th>
               <th>City</th>
               <th>State</th>
               <th>Clock Time</th>
-              <th>Bib#</th>
             </tr>
             {this.renderResults()}
             </tbody>
