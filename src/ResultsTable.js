@@ -11,7 +11,7 @@ class ResultsTable extends Component {
   }
 
   componentDidMount = () => {
-    fetch('/runners')
+    fetch('http://localhost:4000/runners')
         .then(response => response.json())
         .then(data => this.setState({data}))
   }
