@@ -46,7 +46,16 @@ class ResultsTable extends Component {
   render() {
     return (
         <div>
-          <h1>Results</h1>
+          <div className="search-bar">
+            <input type="text" className="search" placeholder="search runner's name"/>
+            <div className="filters">
+              <p>filter by:</p>
+              <a>all runners</a>
+              <a>St. Jude Heroes</a>
+              <a>Boston Qualifiers</a>
+              <a>Age group winners</a>
+            </div>
+          </div>
 
 
           <table className="results">

@@ -238,3 +238,34 @@ table.results th {
     width: 150px;
     margin: 10px;
 }
+
+.search-bar {
+    width: 100%;
+    background: #105BB0;
+    height: 50px;
+    margin: 15px 0;
+    padding: 0 25px;
+}
+
+.search-bar .search {
+    display: inline-block;
+    width: 20%;
+}
+
+.search-bar .filters {
+    display: inline-block;
+    margin-left: 30px;
+}
+
+.search-bar .filters p {
+    display: inline-block;
+    color: #fff;
+    margin: 15px 10px;
+}
+
+.search-bar .filters a {
+    display: inline-block;
+    color: #81C7FF;
+    margin-right: 25px;
+    text-transform: uppercase;
+}
