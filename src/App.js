@@ -173,8 +173,8 @@ class App extends Component {
   }
 
   drawLegend = (d) => {
-    // const legendText = `<h3 style="color:${d.gender === 'm' ? '#66A9BA' : '#F7941D'}"> ${d.name} </h3><p>Position: <strong>${d.position_overall}</strong></p><p>Finishing time: <strong>${d.time_net}</strong></p>`;
-    // select("#legend").html(legendText);
+    const legendText = `<h3 style="color:${d.gender === 'm' ? '#66A9BA' : '#F7941D'}"> ${d.name} </h3><p>Position: <strong>${d.position_overall}</strong></p><p>Finishing time: <strong>${d.time_net}</strong></p>`;
+    select("#legend").html(legendText);
 
     this.setState({activeRunner: d})
   }
