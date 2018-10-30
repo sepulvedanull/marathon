@@ -12,7 +12,7 @@ class ResultsTable extends Component {
   }
 
   componentDidMount = () => {
-    fetch('http://localhost:4000/runners')
+    fetch(`${process.env.REACT_APP_API_URL}`)
         .then(response => response.json())
         .then(data => this.setState({data}))
   }
