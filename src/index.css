@@ -248,9 +248,13 @@ table.results th {
     padding: 0 25px;
 }
 
-.search-bar .search {
+.search-bar .react-autosuggest__container {
     display: inline-block;
     width: 20%;
+}
+
+.search-bar .react-autosuggest__input {
+    width: 100%;
 }
 
 .search-bar .filters {
