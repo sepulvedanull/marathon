@@ -135,9 +135,6 @@ g.runner {
     stroke: #666;
 }
 
-path {
-    fill: none;
-}
 
 #container-notes line, #container-notes path {
     stroke: #666;
@@ -255,6 +252,16 @@ table.results th {
 
 .search-bar .react-autosuggest__input {
     width: 100%;
+    background: #528BCB;
+    border: 0;
+    border-radius: 3px;
+    color: #fff;
+    height: 25px;
+    font-size: 13px;
+}
+
+.search-bar .react-autosuggest__input::-webkit-input-placeholder  {
+    color: #fff;
 }
 
 .search-bar .filters {
@@ -273,4 +280,12 @@ table.results th {
     color: #81C7FF;
     margin-right: 25px;
     text-transform: uppercase;
+}
+
+.search-bar .search-button {
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+    margin-left: -30px;
+    margin-top: 4px;
 }

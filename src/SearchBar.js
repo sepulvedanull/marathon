@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import Autosuggest from 'react-autosuggest'
+import Ionicon from 'react-ionicons'
 
 // Imagine you have a list of languages that you'd like to autosuggest.
 const languages = [
@@ -88,6 +89,9 @@ class SearchBar extends Component {
               renderSuggestion={renderSuggestion}
               inputProps={inputProps}
           />
+          <a href="" className="search-button">
+            <Ionicon icon="md-search" fontSize="26px" color="white"/>
+          </a>
 
           <div className="filters">
             <p>filter by:</p>
