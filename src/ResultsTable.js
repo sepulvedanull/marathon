@@ -1,4 +1,5 @@
 import React, {Component} from 'react'
+import Autosuggest from 'react-autosuggest'
 
 
 class ResultsTable extends Component {
@@ -11,7 +12,7 @@ class ResultsTable extends Component {
   }
 
   componentDidMount = () => {
-    fetch('/runners')
+    fetch('http://localhost:4000/runners')
         .then(response => response.json())
         .then(data => this.setState({data}))
   }
@@ -46,18 +47,6 @@ class ResultsTable extends Component {
   render() {
     return (
         <div>
-          <div className="search-bar">
-            <input type="text" className="search" placeholder="search runner's name"/>
-            <div className="filters">
-              <p>filter by:</p>
-              <a>all runners</a>
-              <a>St. Jude Heroes</a>
-              <a>Boston Qualifiers</a>
-              <a>Age group winners</a>
-            </div>
-          </div>
-
-
           <table className="results">
             <tbody>
             <tr>
