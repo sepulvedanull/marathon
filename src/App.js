@@ -475,7 +475,6 @@ class App extends Component {
         <div className="canvas">
           <svg ref={node => this.node = node}></svg>
         </div>
-
       </div>
     )
   }

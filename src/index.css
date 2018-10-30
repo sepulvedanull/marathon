@@ -187,6 +187,10 @@ table.results th {
     color: #84949E;
 }
 
+.canvas-container .canvas {
+    width: 70%;
+}
+
 .canvas-header h1 {
     display: inline-block;
     margin-right: 10px;
