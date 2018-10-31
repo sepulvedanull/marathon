@@ -25,8 +25,6 @@ body {
     display: inline-block;
 }
 
-
-
 .canvas-meta {
     width: 30%;
     position: absolute;
@@ -135,7 +133,6 @@ g.runner {
     stroke: #666;
 }
 
-
 #container-notes line, #container-notes path {
     stroke: #666;
     stroke-width: 1px;
@@ -217,7 +214,7 @@ table.results th {
     vertical-align: middle;
 }
 
-.event-filters p{
+.event-filters p {
     display: inline-block;
     font-size: 13px;
 }
@@ -260,7 +257,7 @@ table.results th {
     font-size: 13px;
 }
 
-.search-bar .react-autosuggest__input::-webkit-input-placeholder  {
+.search-bar .react-autosuggest__input::-webkit-input-placeholder {
     color: #fff;
 }
 
@@ -288,4 +285,15 @@ table.results th {
     cursor: pointer;
     margin-left: -30px;
     margin-top: 4px;
+}
+
+.search-bar .react-autosuggest__container {
+  position: relative;
+}
+
+.search-bar .react-autosuggest__suggestions-container--open {
+    width: 100%;
+    background: #fff;
+    z-index: 9999;
+    position: absolute;
 }

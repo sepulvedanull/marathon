@@ -1,6 +1,7 @@
-import React, {Component} from 'react'
+import React, { Component } from 'react'
 import Autosuggest from 'react-autosuggest'
 import Ionicon from 'react-ionicons'
+import SearchFilters from './SearchFilters'
 
 // Imagine you have a list of languages that you'd like to autosuggest.
 const languages = [
@@ -21,7 +22,7 @@ const getSuggestions = value => {
   const inputLength = inputValue.length;
 
   return inputLength === 0 ? [] : languages.filter(lang =>
-      lang.name.toLowerCase().slice(0, inputLength) === inputValue
+    lang.name.toLowerCase().slice(0, inputLength) === inputValue
   );
 };
 
@@ -32,14 +33,13 @@ const getSuggestionValue = suggestion => suggestion.name;
 
 // Use your imagination to render suggestions.
 const renderSuggestion = suggestion => (
-    <div>
-      {suggestion.name}
-    </div>
+  <div>
+    {suggestion.name}
+  </div>
 );
 
-
 class SearchBar extends Component {
-  constructor(props) {
+  constructor (props) {
     super(props)
 
     this.state = {
@@ -66,8 +66,7 @@ class SearchBar extends Component {
     });
   };
 
-
-  render() {
+  render () {
     const {value, suggestions} = this.state;
 
     // Autosuggest will pass through all these props to the input.
@@ -78,29 +77,23 @@ class SearchBar extends Component {
     };
 
     return (
-        <div className="search-bar">
+      <div className="search-bar">
 
-          <Autosuggest
-              className="search"
-              suggestions={suggestions}
-              onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
-              onSuggestionsClearRequested={this.onSuggestionsClearRequested}
-              getSuggestionValue={getSuggestionValue}
-              renderSuggestion={renderSuggestion}
-              inputProps={inputProps}
-          />
-          <a href="" className="search-button">
-            <Ionicon icon="md-search" fontSize="26px" color="white"/>
-          </a>
+        <Autosuggest
+          className="search"
+          suggestions={suggestions}
+          onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
+          onSuggestionsClearRequested={this.onSuggestionsClearRequested}
+          getSuggestionValue={getSuggestionValue}
+          renderSuggestion={renderSuggestion}
+          inputProps={inputProps}
+        />
+        <a href="" className="search-button">
+          <Ionicon icon="md-search" fontSize="26px" color="white"/>
+        </a>
 
-          <div className="filters">
-            <p>filter by:</p>
-            <a>all runners</a>
-            <a>St. Jude Heroes</a>
-            <a>Boston Qualifiers</a>
-            <a>Age group winners</a>
-          </div>
-        </div>
+        <SearchFilters/>
+      </div>
     )
   }
 }
