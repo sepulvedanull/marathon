@@ -5,7 +5,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "build-server": "babel server.js -d build",
+    "build-server": "nodemon server.js --exec babel-node --",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "api": "nodemon index.js --exec babel-node --"
