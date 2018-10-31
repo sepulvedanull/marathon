@@ -1,1 +1,1 @@
-web: npm run build-server
+web: npm run prod-server

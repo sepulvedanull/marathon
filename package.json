@@ -4,14 +4,18 @@
   "private": true,
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && npm run build-server",
+    "heroku-prebuild": "npm run build",
+    "prod-server": "node ./build/index.js",
     "dev-server": "nodemon server.js --exec babel-node --",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "heroku-postbuild": "npm install",
-    "build-server": "babel-node server.js"
+
+    "build-server": "babel -d ./build ./server -s"
+
   },
   "dependencies": {
+    "babel-preset-env": "^1.7.0",
     "body-parser": "~1.18.2",
     "cookie-parser": "~1.4.3",
     "d3": "^4.13.0",
