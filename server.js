@@ -1,4 +1,5 @@
 import path from 'path'
+import favicon from 'serve-favicon'
 import logger from 'morgan'
 import cookieParser from 'cookie-parser'
 import bodyParser from 'body-parser'
@@ -15,7 +16,7 @@ const server = http.createServer(app);
 
 app.set('port', port);
 app.set('view engine', 'pug');
-//app.use(favicon(path.join(__dirname, 'client', 'favicon.ico')));
+app.use(favicon(path.join(__dirname, 'client', 'favicon.ico')));
 app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
