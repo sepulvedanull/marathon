@@ -35,7 +35,8 @@ var _http2 = _interopRequireDefault(_http);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var app = (0, _express2.default)();
-var index = require('./routes/index');
+// const index = require('./routes/index');
+var router = _express2.default.Router();
 var debug = require('debug')('myapp:server');
 
 var port = normalizePort(process.env.PORT || '4000');
@@ -50,7 +51,13 @@ app.use(_bodyParser2.default.urlencoded({ extended: false }));
 app.use((0, _cookieParser2.default)());
 app.use(_express2.default.static(_path2.default.join(__dirname, 'build')));
 
-app.use('/', index);
+// app.use('/', index);
+
+
+/* GET home page. */
+router.get('/', function (req, res, next) {
+  res.render('index', { title: 'Express' });
+});
 
 app.get("/api/:year/:race", function (req, res) {
   res.header("Access-Control-Allow-Origin", "*");
