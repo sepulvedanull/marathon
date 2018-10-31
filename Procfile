@@ -1,1 +1,1 @@
-web: node ./bin/www
+web: nodemon server.js --exec babel-node --
