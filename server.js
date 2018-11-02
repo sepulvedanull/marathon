@@ -20,16 +20,10 @@ app.get('/', function(req, res) {
   res.sendFile(path.join(__dirname + '/build/index.html'));
 });
 
-app.get('/runners', function (req, res) {
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-  res.status(200).send(runners);
-  // res.json(runners)
-})
 
 app.get("/api/:year/:race", function (req, res) {
   res.header("Access-Control-Allow-Origin", "*");
-  res.setHeader('Access-Control-Allow-Origin', 'https://memphis-marathon.herokuapp.com/api');
+  res.header('Access-Control-Allow-Origin', 'https://memphis-marathon.herokuapp.com');
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
 
   var dataPath = './data-scraper/data/'+ req.params.year + '/' + req.params.race + '.json';
