@@ -8,7 +8,10 @@ class ActiveRunnerCard extends Component {
 
   render() {
     return(
-        <div></div>
+        <div>
+          <h1>Stephanie Williams</h1>
+
+        </div>
     )
   }
 }
