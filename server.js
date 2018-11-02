@@ -10,23 +10,6 @@ var runners = require(__dirname + '/src/data/runners.json');
 var index = require('./routes/index');
 
 var app = express();
-
-// view engine setup
-// app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'pug');
-
-
-app.get('/', function(req, res) {
-  res.sendFile(path.join(__dirname + '/build/index.html'));
-});
-
-app.get('/runners', function (req, res) {
-  res.header("Access-Control-Allow-Origin", "*");
-  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-  res.status(200).send(runners);
-  // res.json(runners)
-})
-
 // uncomment after placing your favicon in /client
 //app.use(favicon(path.join(__dirname, 'client', 'favicon.ico')));
 app.use(logger('dev'));
@@ -34,6 +17,36 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'build')));
+
+// view engine setup
+// app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'pug');
+
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Credentials", true);
+  res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS');
+  res.header("Access-Control-Allow-Headers", 'Origin,X-Requested-With,Content-Type,Accept,content-type,application/json');
+  next();
+});
+
+app.get('/', function(req, res) {
+  res.sendFile(path.join(__dirname + '/build/index.html'));
+});
+
+
+app.get("/api/:year/:race", function (req, res) {
+  var dataPath = './data-scraper/data/'+ req.params.year + '/' + req.params.race + '.json';
+
+  if (!fs.existsSync(dataPath)) {
+    res.status(422).send("Data file does not exist");
+  } else {
+    var data = require(dataPath);
+    res.status(200).send(data);
+  }
+});
+
+
 
 app.use('/', index);
 
