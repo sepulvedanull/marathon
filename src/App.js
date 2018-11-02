@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Header from './Header'
 import Chart from './Chart'
+import ActiveRunnerCard from './ActiveRunnerCard'
 
 class App extends Component {
   constructor (props) {
@@ -12,6 +13,7 @@ class App extends Component {
       <div className="canvas-container">
         <Header/>
         <Chart />
+        <ActiveRunnerCard />
       </div>
     )
   }
