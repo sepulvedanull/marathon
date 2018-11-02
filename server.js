@@ -27,6 +27,20 @@ app.get('/runners', function (req, res) {
   // res.json(runners)
 })
 
+app.get("/api/:year/:race", function (req, res) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+
+  var dataPath = './data-scraper/data/'+ req.params.year + '/' + req.params.race + '.json';
+
+  if (!fs.existsSync(dataPath)) {
+    res.status(422).send("Data file does not exist");
+  } else {
+    var data = require(dataPath);
+    res.status(200).send(data);
+  }
+});
+
 // uncomment after placing your favicon in /client
 //app.use(favicon(path.join(__dirname, 'client', 'favicon.ico')));
 app.use(logger('dev'));
