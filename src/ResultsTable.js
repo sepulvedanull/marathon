@@ -22,7 +22,7 @@ class ResultsTable extends Component {
         return (
             <tr>
               <td>{runner.Place}</td>
-              <td>{`${runner.Name} ${runner["Unnamed: 3"]}`}</td>
+              <td>{`${runner["First Name"]} ${runner["Last Name"]}`}</td>
               <td>{runner["Bib#"]}</td>
               <td> {runner.Age}</td>
               <td> {runner["Sex\/plc"]}</td>

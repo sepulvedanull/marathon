@@ -243,3 +243,16 @@ table.results th {
     width: 150px;
     margin: 10px;
 }
+
+.athlete-card {
+    width: 30%;
+    float: right;
+}
+
+.athlete-card .card-header {
+    background: #1874DC;
+}
+
+.athlete-card .card-body {
+    background: #081E5E;
+}

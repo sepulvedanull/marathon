@@ -7,14 +7,11 @@ import ActiveRunnerCard from './ActiveRunnerCard'
 import registerServiceWorker from './registerServiceWorker'
 
 ReactDOM.render(
-    <div className="app-container">
+  <div className="app-container">
 
-      <App/>
+    <App/>
+    <ResultsTable/>
 
-      <ResultsTable/>
-
-      <ActiveRunnerCard/>
-
-    </div>
-    , document.getElementById('root'));
+  </div>
+  , document.getElementById('root'));
 registerServiceWorker();
